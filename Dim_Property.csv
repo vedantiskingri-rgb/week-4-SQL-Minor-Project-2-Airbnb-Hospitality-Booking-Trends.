@@ -1,0 +1,1501 @@
+Property_ID,Host_ID,Property_Type,Room_Type,Location_City,Location_Country,No_of_Bedrooms,No_of_Bathrooms,Amenities,Price_per_Night
+0,81,House,Private room,Belindahaven,Greece,3,2,"why, good, tonight, realize, beautiful",880.36
+1,243,Villa,Shared room,East Travis,Portugal,2,3,"though, while, certainly, it, letter",109.95
+2,167,Studio,Entire place,Osbornechester,Papua New Guinea,3,3,"buy, name, subject, rock, old",404.32
+3,87,Villa,Private room,Sandersmouth,Algeria,5,3,"meeting, attack, our, apply, different",702.78
+4,176,Apartment,Shared room,East Steven,Sudan,5,2,"anything, example, edge, final, how",60.32
+5,264,House,Entire place,West Anitaberg,Guam,5,2,"general, important, thank, minute, until",542.71
+6,95,House,Shared room,Jasonville,Timor-Leste,5,2,"light, each, can, evidence, later",934.34
+7,61,Studio,Entire place,Lorichester,Cyprus,5,3,"memory, page, pattern, political, stay",773.03
+8,100,Studio,Entire place,Andrefurt,Cape Verde,4,3,"cover, truth, hit, purpose, deal",291.28
+9,299,Studio,Private room,North Kylestad,Panama,5,2,"news, phone, at, treat, special",311.62
+10,189,Studio,Private room,Tammychester,Oman,5,1,"popular, prove, degree, do, rest",273.26
+11,165,House,Private room,South Benjamin,Cyprus,3,1,"argue, by, protect, impact, government",591.04
+12,81,House,Entire place,New Paulhaven,Rwanda,4,1,"brother, of, wait, while, use",183.19
+13,185,Villa,Entire place,Julieview,Niue,3,1,"open, institution, artist, there, baby",536.8
+14,142,Apartment,Private room,Port Albert,Yemen,3,2,"computer, enough, role, begin, war",277.8
+15,151,Villa,Entire place,New Williamberg,Malaysia,4,3,"anything, wait, realize, each, hotel",253.01
+16,15,Studio,Entire place,South Abigailmouth,Jamaica,5,3,"each, art, small, pick, laugh",51.57
+17,300,House,Entire place,Robertsberg,Vanuatu,1,2,"reach, foot, religious, mission, free",254.36
+18,86,Studio,Private room,Jonesport,Nigeria,3,1,"catch, station, interesting, suffer, PM",448.75
+19,33,Studio,Shared room,West Kaitlyn,Azerbaijan,3,2,"process, own, move, window, town",727.66
+20,117,House,Shared room,North Michaelmouth,Ukraine,1,3,"notice, wish, network, professional, cold",371.71
+21,48,House,Private room,New Michaelchester,Nauru,4,1,"manage, window, director, boy, develop",751.45
+22,52,Apartment,Entire place,West Samanthafurt,Latvia,4,2,"behavior, member, gun, increase, guy",807.98
+23,112,Studio,Private room,Port Timothy,Kuwait,1,2,"travel, involve, main, kitchen, every",999.83
+24,159,Studio,Shared room,Lake Amymouth,Saint Barthelemy,4,2,"poor, age, difficult, reflect, attorney",325.82
+25,75,Studio,Shared room,Delgadotown,Mongolia,5,2,"people, available, impact, deep, describe",252.32
+26,277,House,Private room,Mckinneyfort,Croatia,3,2,"conference, food, director, director, first",920.27
+27,95,Studio,Private room,Lake Carlymouth,Cayman Islands,5,1,"project, Democrat, pass, official, indeed",606.73
+28,245,House,Private room,Kimberlymouth,Uruguay,4,1,"condition, effort, shake, follow, happy",169.95
+29,75,Studio,Entire place,Brandontown,Armenia,5,2,"player, focus, current, view, future",63.28
+30,132,House,Private room,Port Meagan,Nepal,4,3,"cost, order, a, open, people",723.55
+31,117,Studio,Private room,Lopezberg,Saint Lucia,3,2,"clearly, enter, society, ready, dark",947.91
+32,35,Villa,Entire place,Nguyenborough,France,1,3,"way, so, challenge, lot, effect",118.27
+33,12,Studio,Private room,Lake Heatherside,India,4,2,"sure, simply, foreign, question, couple",788.13
+34,209,House,Private room,Kingbury,Western Sahara,3,3,"tonight, chance, off, month, explain",718.32
+35,188,Villa,Private room,Michaelfort,Bolivia,3,2,"new, blood, resource, modern, keep",773.49
+36,85,Villa,Shared room,South Marie,Dominica,1,2,"sea, time, face, trip, pull",811.74
+37,203,Villa,Private room,Yufort,Turkmenistan,4,2,"threat, money, difficult, station, bad",981.14
+38,273,House,Shared room,West Larry,Tajikistan,1,1,"improve, partner, national, threat, probably",773.38
+39,27,Apartment,Shared room,East Elijahhaven,Korea,5,2,"say, side, western, north, include",819.93
+40,285,Villa,Private room,Kevinburgh,El Salvador,1,1,"need, that, something, guy, local",807.84
+41,22,House,Entire place,Williamsfort,Iraq,1,1,"teach, election, recent, quite, body",539.79
+42,60,House,Entire place,Port Andreaberg,Benin,3,1,"often, week, learn, every, wonder",716.33
+43,293,House,Private room,South Timothy,Nauru,1,1,"class, authority, hundred, close, my",954.31
+44,101,Apartment,Private room,Nelsonshire,Guinea-Bissau,3,2,"capital, cold, decide, visit, message",251.26
+45,242,Studio,Shared room,Georgefurt,Kenya,3,1,"city, drop, stock, moment, little",513.62
+46,171,Studio,Entire place,Port Caitlin,Gibraltar,1,3,"series, radio, campaign, professor, space",55.19
+47,209,Studio,Shared room,New Christophershire,Zambia,1,3,"your, a, color, our, until",909.59
+48,181,Villa,Shared room,North Paulport,Korea,5,1,"happy, ready, inside, newspaper, movement",272.52
+49,195,Villa,Shared room,Nuneztown,Namibia,5,1,"travel, night, may, prepare, almost",282.4
+50,91,Apartment,Private room,Stevenland,Armenia,3,3,"draw, research, stock, issue, speak",338.79
+51,69,House,Entire place,Barronhaven,Ecuador,2,3,"strong, at, yes, main, suffer",579.26
+52,141,Studio,Private room,Port Ann,Faroe Islands,1,2,"career, might, center, answer, get",295.44
+53,246,Studio,Entire place,North Leahside,Jersey,4,2,"last, Democrat, increase, Mr, oil",73.92
+54,3,Studio,Shared room,Fitzpatrickville,Greece,3,1,"great, world, boy, watch, whom",495.58
+55,165,Apartment,Private room,Brittanyfurt,Poland,4,2,"ago, seven, suggest, answer, question",656.87
+56,65,Villa,Shared room,Terryport,Luxembourg,3,2,"avoid, would, senior, wrong, home",711.54
+57,12,Apartment,Private room,Allenview,Comoros,2,3,"walk, final, visit, character, image",231.7
+58,237,Villa,Private room,New Angela,Liberia,4,1,"before, it, account, perform, data",765.25
+59,129,House,Private room,Franklinmouth,Cuba,3,1,"impact, opportunity, station, indeed, lawyer",717.81
+60,154,Apartment,Entire place,Schultzburgh,Saint Pierre and Miquelon,5,3,"rock, author, face, place, investment",949.65
+61,274,Apartment,Shared room,Rowetown,Saint Lucia,2,2,"dream, board, its, region, she",71.94
+62,197,Studio,Entire place,Rogersville,Holy See (Vatican City State),5,1,"until, activity, natural, do, understand",114.61
+63,228,Studio,Private room,Jamesburgh,Seychelles,2,3,"eat, medical, think, practice, history",532.71
+64,218,Villa,Entire place,Edwardville,Guadeloupe,3,2,"husband, large, share, center, his",548.85
+65,77,Studio,Entire place,Port Rachelstad,United Arab Emirates,1,2,"every, pressure, economy, heavy, red",688.63
+66,61,House,Private room,New Lukehaven,Lesotho,1,2,"none, college, local, window, mother",225.61
+67,128,Apartment,Private room,East Patricia,Martinique,1,3,"no, later, sometimes, she, animal",445.62
+68,206,Villa,Shared room,Arellanoberg,Saint Vincent and the Grenadines,1,2,"start, source, me, partner, class",454.65
+69,151,Apartment,Entire place,West Jeffrey,French Guiana,4,2,"clear, certainly, visit, affect, though",270.64
+70,158,House,Entire place,Jonathanshire,Malawi,2,3,"on, none, identify, all, project",887.34
+71,43,Villa,Entire place,Adamshaven,Belarus,3,3,"second, only, assume, Mrs, prevent",416.92
+72,219,Studio,Private room,North Andrewburgh,Wallis and Futuna,2,1,"song, close, by, tree, raise",356.64
+73,90,Apartment,Private room,Samanthaland,Barbados,2,3,"bar, win, effort, meet, own",629.58
+74,194,Studio,Shared room,North Jeffrey,Tuvalu,3,2,"reveal, simple, nation, fish, fish",864.54
+75,14,Villa,Private room,South Marie,Peru,2,3,"language, boy, else, six, four",927.84
+76,7,Apartment,Shared room,Audreyton,Greece,5,1,"letter, science, both, size, brother",693.93
+77,131,Villa,Private room,Kimberlyborough,Moldova,5,1,"possible, job, sign, return, edge",729.52
+78,273,House,Shared room,Port Kelly,Ireland,4,1,"one, travel, camera, its, evidence",969.86
+79,192,Studio,Private room,East Michael,Namibia,2,2,"science, detail, fact, account, act",386.63
+80,247,Apartment,Entire place,Meganside,Australia,2,3,"own, level, development, fill, ask",244.34
+81,200,Villa,Private room,South Erinstad,Cape Verde,4,3,"word, city, out, save, federal",576.82
+82,167,Villa,Entire place,South Peter,Burundi,1,3,"generation, happen, factor, half, capital",443.35
+83,58,Studio,Entire place,Marybury,New Caledonia,5,3,"could, like, become, offer, raise",380.4
+84,200,Studio,Entire place,Schmidtfurt,Trinidad and Tobago,2,1,"paper, common, season, laugh, first",527.46
+85,172,House,Shared room,Sullivanchester,Tunisia,4,3,"sometimes, war, quickly, recent, experience",57.82
+86,213,House,Private room,North Victorfort,Estonia,3,2,"safe, involve, space, head, four",395.6
+87,189,Villa,Entire place,New Kevin,Brunei Darussalam,3,3,"so, talk, team, boy, way",795.18
+88,211,House,Shared room,Jodistad,Kyrgyz Republic,5,2,"perhaps, show, if, who, lot",369.64
+89,77,Villa,Private room,North Manuel,Luxembourg,2,1,"real, receive, itself, sure, low",455.16
+90,241,Apartment,Entire place,Owenston,India,5,1,"single, some, across, agree, card",628.7
+91,237,House,Entire place,Port Jonathanburgh,Grenada,3,2,"himself, middle, capital, politics, enter",98.4
+92,207,Villa,Entire place,Sanchezchester,Kiribati,1,3,"through, call, beautiful, hope, middle",354.93
+93,127,Villa,Shared room,Mariofort,Bahamas,5,3,"enjoy, fine, relationship, issue, spring",699.49
+94,39,Apartment,Shared room,Boonetown,Romania,1,3,"many, catch, wrong, home, daughter",298.31
+95,210,Apartment,Private room,Sandratown,Jordan,2,2,"age, hold, into, federal, summer",510.11
+96,121,Villa,Shared room,Port Lisahaven,Saudi Arabia,5,2,"shake, instead, cut, attorney, employee",585.96
+97,188,Villa,Private room,West Christopher,Cameroon,1,1,"each, hotel, production, rest, business",399.3
+98,201,House,Private room,New Mercedes,Oman,4,1,"moment, candidate, soldier, around, value",763.7
+99,293,Villa,Shared room,West David,Ethiopia,5,3,"should, guy, career, action, foot",77.29
+100,282,Studio,Private room,Gregoryhaven,Sri Lanka,5,3,"consider, government, word, top, seven",369.61
+101,179,Villa,Shared room,Bradleyfurt,Bouvet Island (Bouvetoya),2,3,"everything, he, hit, every, several",94.03
+102,123,Apartment,Private room,Michelleview,Christmas Island,4,3,"color, pressure, region, section, why",808.69
+103,283,House,Private room,West Kimberlyside,Honduras,3,1,"executive, alone, may, important, bag",679.93
+104,260,Villa,Shared room,Port Heatherburgh,Monaco,1,1,"employee, campaign, same, baby, whether",937.38
+105,151,House,Entire place,Smithhaven,South Georgia and the South Sandwich Islands,4,1,"best, sing, reason, paper, meet",510.69
+106,6,Apartment,Private room,Pachecomouth,Christmas Island,5,2,"live, amount, pick, difference, loss",852.32
+107,175,Studio,Shared room,Kimberlyland,Guinea,3,2,"someone, partner, allow, there, way",263.78
+108,239,Studio,Private room,Brandiborough,Guadeloupe,2,2,"traditional, inside, so, cold, final",171.94
+109,239,House,Shared room,Lake Kyle,Antigua and Barbuda,5,3,"across, policy, property, television, poor",460.64
+110,203,House,Entire place,New Ronald,New Zealand,4,1,"local, heavy, pull, enough, available",545.94
+111,8,Studio,Private room,Carrieville,China,1,2,"tend, while, fill, other, perhaps",431.02
+112,175,House,Entire place,Andersonhaven,United Kingdom,3,3,"style, here, under, certain, natural",391.79
+113,103,Studio,Shared room,Jamestown,Armenia,2,1,"town, leader, still, maintain, network",160.95
+114,95,Apartment,Shared room,Davidtown,Malta,4,1,"possible, real, car, until, gas",170.69
+115,237,House,Private room,South Travis,Bouvet Island (Bouvetoya),1,2,"meeting, approach, address, child, some",281.12
+116,210,Studio,Private room,Port Kurt,Namibia,3,1,"national, would, industry, open, standard",339.61
+117,209,Villa,Private room,Lake Shelia,New Zealand,2,2,"hard, security, magazine, perhaps, for",559.9
+118,107,Villa,Shared room,South Meredith,Armenia,3,3,"discuss, somebody, market, quite, major",936.11
+119,205,Villa,Shared room,South Abigail,Nepal,3,3,"tell, energy, inside, line, mean",136.87
+120,274,Studio,Shared room,Matthewburgh,Marshall Islands,4,2,"good, history, sure, across, American",220.31
+121,60,Villa,Shared room,New Michaelberg,Belize,3,2,"movie, always, conference, field, white",87.69
+122,230,Villa,Entire place,Emilystad,Marshall Islands,3,3,"others, whole, control, few, sell",590.36
+123,180,Studio,Shared room,Hammondshire,Monaco,3,3,"magazine, religious, agent, short, home",167.32
+124,75,Studio,Private room,South Elizabeth,Liberia,2,2,"more, and, true, toward, money",505.66
+125,227,Studio,Private room,Millerfort,Cape Verde,2,2,"number, somebody, per, success, five",257.22
+126,54,Apartment,Private room,West Carolynland,Martinique,1,2,"collection, think, room, late, various",779.01
+127,212,House,Entire place,Sharonville,Dominican Republic,1,1,"last, federal, probably, trouble, election",548.88
+128,229,Apartment,Entire place,Harrisside,Serbia,1,1,"total, social, history, two, indicate",954.23
+129,87,Studio,Entire place,New Laura,Iran,3,1,"thing, read, trade, pull, western",144.32
+130,138,Villa,Shared room,Williamsonton,Saudi Arabia,5,2,"experience, marriage, attack, possible, remain",105.67
+131,50,Apartment,Entire place,Rowlandburgh,Vietnam,3,2,"sit, act, cup, actually, camera",487.0
+132,106,Studio,Shared room,Port Jacquelinehaven,Nauru,4,1,"blue, not, serious, everyone, measure",494.74
+133,291,Studio,Entire place,Lake Christianfort,British Virgin Islands,3,1,"bed, whose, computer, citizen, administration",293.55
+134,23,Studio,Shared room,East Donnastad,Zambia,4,1,"admit, specific, chair, including, high",187.99
+135,278,Apartment,Private room,West Alanshire,Christmas Island,4,2,"bill, system, model, standard, without",744.5
+136,129,Studio,Shared room,Arielburgh,Anguilla,2,2,"any, southern, they, blue, call",885.69
+137,234,House,Shared room,West Rachelside,Saint Pierre and Miquelon,5,1,"quickly, lay, born, push, last",478.19
+138,252,Villa,Entire place,Kennethburgh,New Caledonia,3,1,"energy, day, current, fine, sound",690.59
+139,3,Villa,Entire place,Smithport,Iran,2,3,"spring, kind, difference, lose, say",983.71
+140,142,Apartment,Entire place,New Evanfort,Uganda,5,2,"sport, fall, personal, put, worry",187.0
+141,266,Apartment,Private room,Michelleville,Qatar,3,1,"ask, east, best, world, old",284.85
+142,117,House,Private room,Lake Joshuaberg,Jersey,5,2,"next, participant, measure, area, involve",255.87
+143,268,Villa,Shared room,Joanntown,Heard Island and McDonald Islands,4,3,"office, product, store, happy, south",144.0
+144,195,Apartment,Shared room,Middletonmouth,Iceland,3,2,"last, forget, seven, yet, eye",996.87
+145,300,Villa,Private room,West Tinamouth,Aruba,5,3,"third, condition, program, camera, loss",378.47
+146,114,Apartment,Shared room,Lake Brendaview,Iran,4,1,"animal, argue, place, cultural, skill",540.27
+147,97,Villa,Private room,North Sarah,Bahrain,3,2,"stock, might, practice, decide, sign",237.13
+148,64,Studio,Private room,Shawnborough,Mongolia,3,3,"former, someone, beat, everything, respond",62.97
+149,237,Apartment,Private room,Ericport,Denmark,3,2,"alone, most, lose, rather, bar",975.77
+150,173,Apartment,Shared room,Maryport,Turkmenistan,3,2,"process, make, operation, enough, determine",627.37
+151,293,House,Private room,Lake Reneeside,Bulgaria,1,2,"yourself, tough, catch, argue, address",66.64
+152,279,House,Private room,Port Ericberg,Lebanon,2,1,"meet, choice, want, stock, it",168.36
+153,170,Villa,Shared room,South Kimberly,Greenland,5,2,"before, him, run, hundred, include",589.27
+154,11,Apartment,Entire place,Greenstad,Turkey,2,1,"deal, I, way, suddenly, style",459.23
+155,121,Apartment,Shared room,Adamsside,Algeria,5,3,"pay, knowledge, off, already, heavy",357.7
+156,157,Apartment,Shared room,Gregoryburgh,Argentina,1,2,"safe, before, one, there, third",766.77
+157,159,Studio,Shared room,Weeksville,Albania,4,3,"option, policy, enter, difference, example",916.58
+158,177,Apartment,Shared room,Hernandezton,Montenegro,4,1,"news, live, standard, will, stock",881.59
+159,221,Studio,Shared room,South Paulafurt,Austria,3,3,"cover, something, wide, son, last",932.9
+160,240,House,Private room,Arnoldtown,Portugal,3,2,"base, chance, natural, huge, view",884.64
+161,108,Apartment,Entire place,Michellemouth,Malawi,4,3,"care, impact, when, blood, up",574.72
+162,79,Studio,Entire place,Lake Lawrenceberg,Colombia,2,1,"prevent, author, sit, include, medical",554.21
+163,80,House,Private room,New Chad,Norway,1,1,"real, last, arm, these, order",443.84
+164,134,Apartment,Shared room,South Ann,North Macedonia,1,2,"can, require, play, adult, least",69.19
+165,132,Apartment,Entire place,New Taylorland,Equatorial Guinea,2,3,"pretty, night, office, process, move",424.41
+166,131,Apartment,Private room,South Jamesstad,Australia,1,1,"wife, base, difficult, public, free",397.22
+167,166,Apartment,Entire place,North Nancyburgh,Kenya,2,2,"single, protect, eye, time, appear",382.82
+168,224,House,Entire place,Port Troy,Vietnam,1,1,"old, people, debate, memory, however",621.03
+169,183,Villa,Shared room,Port Wendy,Kiribati,3,1,"project, three, meet, world, future",218.38
+170,70,Apartment,Private room,North Valeriebury,Bermuda,4,2,"president, space, TV, would, line",990.26
+171,236,Villa,Shared room,Port Juliehaven,Nigeria,3,1,"try, discover, yet, financial, project",644.94
+172,52,Villa,Entire place,Simonmouth,Netherlands Antilles,5,2,"scene, bit, let, maybe, action",973.22
+173,212,Apartment,Private room,New Shane,Isle of Man,3,2,"mention, blue, power, leg, series",874.91
+174,167,Villa,Entire place,South Kennethtown,Faroe Islands,2,2,"scientist, employee, trouble, professor, environmental",242.57
+175,169,Villa,Private room,West Amandaton,Saint Vincent and the Grenadines,4,1,"science, wonder, voice, tax, while",353.14
+176,236,House,Shared room,West Dennis,Norfolk Island,3,2,"effort, both, detail, audience, head",899.58
+177,252,Studio,Shared room,Michaelshire,Saint Pierre and Miquelon,4,2,"wonder, interest, bed, seat, almost",271.92
+178,184,Apartment,Shared room,Corymouth,Brazil,2,3,"employee, here, three, put, perhaps",99.11
+179,278,Studio,Shared room,Christopherchester,Burkina Faso,4,2,"provide, give, simple, public, every",517.59
+180,36,Villa,Shared room,Ellenbury,Indonesia,2,2,"million, machine, close, care, learn",776.5
+181,18,Apartment,Private room,Lindseymouth,Puerto Rico,4,2,"nature, suffer, on, listen, realize",241.52
+182,149,Studio,Shared room,West Angelstad,Cyprus,4,1,"total, authority, certainly, research, here",536.03
+183,90,Studio,Entire place,Jerrybury,Lao People's Democratic Republic,5,2,"case, already, record, contain, especially",818.87
+184,63,House,Private room,Bowersmouth,Lao People's Democratic Republic,4,2,"civil, entire, outside, science, site",699.16
+185,289,Villa,Shared room,North Tammyton,Dominica,5,3,"fast, perhaps, site, these, general",545.31
+186,230,House,Private room,New Katrinaville,Chile,5,1,"leave, history, career, interview, do",777.85
+187,291,House,Shared room,Annettechester,Reunion,2,1,"type, crime, quality, drive, production",349.44
+188,83,Apartment,Entire place,Michaelview,Hong Kong,5,3,"writer, actually, week, beyond, modern",74.48
+189,296,Apartment,Shared room,Alexanderview,Swaziland,5,1,"only, sound, toward, total, over",882.14
+190,212,Studio,Entire place,Jessicatown,Macao,3,3,"truth, town, election, within, ten",187.12
+191,77,Apartment,Entire place,Wattsstad,Armenia,2,1,"sit, play, medical, sister, claim",281.37
+192,284,Studio,Entire place,New Willie,Panama,5,3,"through, reality, action, deep, fill",289.96
+193,300,Villa,Entire place,East Brandi,Israel,3,3,"deep, affect, model, possible, bit",664.66
+194,175,Villa,Private room,Virginiatown,Luxembourg,5,1,"dream, east, heavy, another, doctor",122.99
+195,219,House,Shared room,Reyesville,Jersey,4,2,"design, remember, do, drive, he",56.78
+196,199,Villa,Entire place,Dominguezberg,Holy See (Vatican City State),5,1,"media, together, lay, budget, everyone",182.98
+197,28,Studio,Private room,East Sharon,Monaco,3,1,"sign, worker, last, reveal, simply",930.39
+198,120,House,Entire place,Prattbury,Aruba,4,2,"choose, political, exist, follow, feel",813.94
+199,43,Apartment,Entire place,East Oliviabury,Brunei Darussalam,4,3,"there, easy, hard, visit, hard",219.39
+200,227,Apartment,Shared room,New Vincent,Rwanda,1,3,"threat, painting, sport, imagine, treat",186.14
+201,298,Villa,Entire place,East Nicholas,Cayman Islands,5,3,"commercial, our, many, contain, should",931.63
+202,7,Villa,Entire place,Cardenashaven,Cambodia,3,3,"store, generation, including, economic, late",369.67
+203,61,House,Shared room,Josephport,Czech Republic,3,3,"up, certain, top, allow, energy",601.78
+204,35,House,Shared room,West Tarabury,Greenland,2,1,"treatment, here, political, box, buy",499.98
+205,75,Apartment,Entire place,North Parker,Mayotte,2,2,"skill, end, heart, cold, level",357.41
+206,78,House,Private room,Jamiemouth,Honduras,5,1,"last, organization, camera, dog, other",815.5
+207,220,House,Shared room,Port Timothyville,Papua New Guinea,5,1,"shake, computer, senior, run, low",775.96
+208,18,Villa,Shared room,Kellyhaven,Saint Lucia,4,3,"leave, order, election, wrong, administration",754.19
+209,213,Studio,Shared room,East Derrick,Bosnia and Herzegovina,3,1,"sense, source, everything, tell, hope",885.33
+210,158,Studio,Shared room,Port Scottchester,Georgia,3,3,"newspaper, partner, woman, involve, rise",114.22
+211,47,Villa,Private room,Jonesview,Afghanistan,1,2,"great, control, nearly, as, suddenly",418.11
+212,252,Apartment,Entire place,Andersonstad,Korea,1,3,"go, eye, score, trip, identify",621.86
+213,31,Villa,Entire place,Larryborough,El Salvador,4,2,"area, play, set, start, natural",131.96
+214,124,Villa,Private room,New Carolshire,Aruba,3,2,"seat, color, woman, need, without",70.25
+215,231,Studio,Entire place,Davismouth,Djibouti,5,3,"any, degree, itself, young, hear",706.45
+216,145,Studio,Shared room,Brianshire,New Zealand,5,1,"movie, much, Republican, truth, decide",962.09
+217,207,Apartment,Entire place,Stevenfurt,Vanuatu,5,1,"brother, want, author, test, kind",187.81
+218,257,House,Shared room,West Malloryside,Andorra,5,1,"free, artist, during, author, price",408.1
+219,225,Studio,Shared room,New Jasonshire,Jordan,4,2,"past, lay, bar, turn, leg",889.31
+220,269,Apartment,Shared room,Garyfort,Mayotte,2,2,"wide, spring, activity, national, theory",702.95
+221,152,House,Shared room,Webbtown,Canada,1,3,"center, doctor, home, end, speech",160.83
+222,172,Studio,Shared room,Ericville,Finland,5,1,"hand, red, him, present, success",467.01
+223,47,Apartment,Shared room,Harriston,Myanmar,3,3,"ahead, throughout, network, mouth, commercial",999.58
+224,264,Villa,Entire place,Lake Jacob,Svalbard & Jan Mayen Islands,3,1,"whatever, course, somebody, per, political",145.89
+225,84,Apartment,Entire place,Jacksontown,Cote d'Ivoire,1,1,"to, president, himself, approach, test",199.95
+226,140,House,Shared room,Lake Christopher,Bouvet Island (Bouvetoya),3,2,"one, foot, billion, bar, money",699.27
+227,270,Apartment,Private room,East Jayview,Germany,2,2,"here, great, on, hope, blue",159.64
+228,72,House,Private room,Roseville,Ethiopia,1,1,"kid, like, who, society, single",523.7
+229,25,Apartment,Entire place,New Elizabeth,Belarus,3,2,"throughout, scene, approach, work, last",970.22
+230,262,House,Private room,Holmesshire,Slovakia (Slovak Republic),1,1,"allow, why, personal, speak, condition",478.35
+231,14,Villa,Shared room,New Joshua,French Guiana,1,1,"mission, reflect, significant, anything, east",164.71
+232,85,House,Entire place,East Jaclyn,Uruguay,5,3,"win, soon, itself, nature, sometimes",141.01
+233,284,Villa,Shared room,Gordonshire,Bolivia,5,3,"brother, million, remain, indeed, level",175.55
+234,90,Apartment,Private room,Maloneland,Isle of Man,4,3,"policy, else, physical, simple, education",445.96
+235,217,House,Entire place,East Deborahville,Cyprus,5,1,"during, choose, head, later, according",387.81
+236,225,Villa,Entire place,Kimberlyton,Paraguay,4,1,"Mr, hundred, actually, form, public",297.58
+237,213,Villa,Private room,New Olivia,Canada,3,3,"figure, as, writer, total, college",531.04
+238,209,Studio,Shared room,Hunterville,Canada,1,1,"various, picture, exactly, rich, until",243.51
+239,161,Villa,Entire place,Lake April,Somalia,1,2,"record, possible, become, north, wear",973.79
+240,207,Studio,Entire place,South Richardside,Barbados,3,2,"particularly, technology, leave, whose, involve",421.01
+241,27,House,Private room,Riveraville,Colombia,1,2,"perform, hear, establish, federal, window",159.3
+242,235,House,Shared room,Lake Bradleyville,Kenya,4,3,"eight, trade, military, large, yard",491.86
+243,32,Apartment,Shared room,New Marissa,Germany,4,2,"skill, own, this, morning, card",471.82
+244,195,Apartment,Shared room,East Williamborough,Hungary,1,2,"look, listen, health, factor, nice",993.2
+245,110,Studio,Entire place,Jonesstad,Korea,5,3,"half, least, place, chance, ago",840.2
+246,192,House,Entire place,Pollardfurt,Cayman Islands,3,1,"data, stay, good, very, avoid",542.6
+247,288,Studio,Shared room,Port Christine,Namibia,2,2,"politics, sister, he, body, lawyer",169.34
+248,129,Studio,Private room,Lake Earlview,Qatar,3,3,"well, attorney, stand, set, impact",759.05
+249,231,Apartment,Entire place,South Glenn,Tokelau,3,2,"hundred, why, remember, drive, usually",81.51
+250,281,Studio,Shared room,Mathismouth,Sri Lanka,5,1,"table, citizen, reflect, weight, while",179.26
+251,230,Studio,Shared room,Powellport,Senegal,5,2,"side, western, born, world, heavy",903.37
+252,43,Studio,Entire place,Mendozabury,Nepal,5,3,"east, work, break, watch, light",683.72
+253,31,Apartment,Private room,Brockbury,British Indian Ocean Territory (Chagos Archipelago),3,3,"report, I, sign, short, art",730.12
+254,67,House,Shared room,New Andrewhaven,Kuwait,4,2,"pattern, beautiful, board, agree, moment",856.73
+255,65,Studio,Shared room,Port Joshuaside,Nicaragua,3,2,"decade, hair, body, than, save",751.02
+256,67,Studio,Private room,North Kim,Latvia,3,3,"pick, hear, game, water, season",195.99
+257,91,Apartment,Entire place,Williamsland,Fiji,5,2,"should, exist, space, whole, own",282.5
+258,278,Apartment,Private room,Lake Karen,Burundi,1,2,"late, bit, none, professional, maintain",586.11
+259,182,House,Shared room,South Crystalmouth,Hong Kong,5,1,"court, conference, drop, industry, surface",697.11
+260,121,Apartment,Entire place,West Alexanderhaven,Bangladesh,5,1,"fear, use, structure, whatever, hope",141.94
+261,59,Apartment,Shared room,South Maureen,British Indian Ocean Territory (Chagos Archipelago),3,3,"walk, care, cost, guy, recent",693.13
+262,200,Apartment,Shared room,New Seth,Honduras,4,2,"allow, contain, nation, environment, fire",318.45
+263,100,Studio,Entire place,Port Teresa,Singapore,5,3,"street, ready, write, improve, within",275.03
+264,10,House,Shared room,Kristenton,Cote d'Ivoire,2,1,"discuss, phone, price, raise, middle",974.13
+265,213,Apartment,Shared room,Lake Jacquelinestad,Yemen,5,1,"about, many, later, age, any",740.72
+266,21,Apartment,Shared room,Taylorside,Cape Verde,2,2,"central, good, responsibility, amount, before",112.32
+267,119,Apartment,Private room,Montgomerytown,Slovenia,5,3,"drug, hospital, fear, commercial, one",281.63
+268,179,Studio,Entire place,Port Rachelberg,Yemen,1,2,"site, good, bed, event, than",898.15
+269,294,Studio,Entire place,Lake Chadfurt,Monaco,5,1,"religious, appear, year, cup, world",435.34
+270,70,Villa,Private room,Underwoodport,Maldives,5,3,"ago, whom, hundred, person, season",373.23
+271,13,Studio,Shared room,Bryanborough,Tajikistan,1,2,"PM, every, cost, eight, ever",821.84
+272,1,House,Private room,Montgomeryburgh,Montserrat,3,1,"capital, gas, factor, away, money",393.75
+273,2,Studio,Private room,North Austin,Cameroon,2,3,"training, impact, boy, effort, these",132.23
+274,204,Studio,Private room,Gutierrezbury,Burkina Faso,2,3,"color, rich, focus, tell, allow",592.81
+275,266,Apartment,Shared room,Doyleport,Swaziland,3,1,"race, hold, certain, gas, century",260.0
+276,170,Apartment,Private room,Lauriemouth,Sri Lanka,4,3,"where, land, moment, someone, Mr",998.54
+277,263,Villa,Shared room,Ashleyton,Samoa,4,1,"top, interview, because, pressure, scene",67.84
+278,102,House,Shared room,Yateston,Croatia,3,1,"long, mother, performance, new, product",881.53
+279,126,Apartment,Private room,Walkerfort,Kyrgyz Republic,2,1,"become, avoid, accept, question, theory",792.88
+280,20,House,Private room,Lake Alexanderfort,Bermuda,2,3,"newspaper, ball, perform, almost, goal",171.64
+281,265,Villa,Entire place,Melissaburgh,Gabon,2,3,"week, beyond, agent, only, leg",995.71
+282,128,Apartment,Entire place,Deannafurt,Bhutan,2,2,"whatever, model, despite, bit, recently",367.65
+283,251,House,Shared room,Conwayfort,Croatia,5,3,"safe, budget, tree, small, might",842.88
+284,24,Villa,Private room,Stewartmouth,Guernsey,2,2,"star, bar, action, girl, five",208.8
+285,272,House,Entire place,Heidistad,Mongolia,4,2,"player, government, race, attack, professor",778.43
+286,257,Apartment,Entire place,Morrisborough,Haiti,5,3,"up, its, seat, never, realize",391.26
+287,145,House,Shared room,Palmerton,Mongolia,2,2,"development, somebody, just, board, sister",418.21
+288,43,Apartment,Shared room,Lake Matthewfurt,Northern Mariana Islands,2,2,"voice, off, threat, line, year",623.3
+289,129,Studio,Shared room,Banksbury,Saudi Arabia,4,3,"color, season, industry, inside, morning",537.56
+290,289,Studio,Entire place,Port Lauraside,Argentina,3,2,"now, gun, amount, action, lawyer",539.74
+291,15,Villa,Entire place,Robertfort,Togo,2,3,"week, behind, clearly, structure, page",659.92
+292,91,Villa,Shared room,Keithland,Jersey,5,2,"feel, painting, purpose, specific, why",471.5
+293,190,Apartment,Private room,North Jonathanchester,Slovakia (Slovak Republic),3,3,"west, budget, out, place, happen",359.35
+294,154,Studio,Shared room,Perkinstown,Austria,4,1,"anything, including, perhaps, defense, left",313.89
+295,282,Villa,Shared room,East Alice,Marshall Islands,3,1,"rich, kid, during, become, upon",568.3
+296,203,Studio,Private room,Johnmouth,Zimbabwe,3,2,"future, hundred, several, provide, always",767.97
+297,236,Studio,Private room,Austintown,Ireland,5,3,"main, finish, hour, girl, range",852.91
+298,51,Studio,Entire place,Foxborough,Nauru,5,1,"trouble, school, Republican, interesting, attention",707.19
+299,172,Apartment,Shared room,Cindyside,Netherlands Antilles,3,2,"myself, season, team, commercial, current",664.3
+300,8,Apartment,Shared room,Lake Jenniferview,Bouvet Island (Bouvetoya),5,1,"part, rise, town, list, consumer",963.81
+301,26,Studio,Entire place,Hamiltontown,Eritrea,4,3,"loss, buy, onto, possible, story",787.25
+302,83,House,Entire place,West Michellemouth,North Macedonia,3,3,"against, what, view, PM, movement",83.77
+303,51,Villa,Shared room,Freemanmouth,Burundi,3,1,"ground, affect, thank, citizen, window",71.68
+304,67,Apartment,Entire place,Brandonville,Mauritius,5,3,"church, success, between, role, building",819.12
+305,149,Apartment,Shared room,Mikeport,Singapore,1,2,"next, cost, real, west, add",159.51
+306,59,House,Entire place,North Joshua,Canada,1,2,"produce, pressure, common, cut, institution",824.37
+307,85,Apartment,Shared room,Port Natalieville,Argentina,1,3,"bad, knowledge, suggest, player, trade",78.91
+308,207,Apartment,Entire place,West Miranda,Micronesia,2,3,"professor, high, possible, week, rise",622.74
+309,7,Villa,Shared room,Hallhaven,Greece,3,1,"our, cause, matter, perform, approach",147.7
+310,153,Apartment,Entire place,Michelleberg,Palestinian Territory,3,2,"admit, perhaps, name, or, several",827.65
+311,55,Villa,Entire place,Arielview,Burundi,1,1,"not, rock, point, task, than",802.24
+312,127,Villa,Entire place,West Cindyview,Yemen,2,3,"week, degree, learn, star, prove",699.33
+313,278,Studio,Private room,Robertland,Saint Vincent and the Grenadines,3,3,"listen, hundred, point, military, assume",779.29
+314,218,Studio,Private room,New Jillianton,Bosnia and Herzegovina,1,3,"significant, account, beat, economic, dream",179.67
+315,242,House,Private room,Jessicaberg,Oman,3,1,"become, environmental, finally, model, expect",684.98
+316,214,Studio,Private room,Cassandraside,Falkland Islands (Malvinas),2,2,"might, feeling, record, rate, expect",95.64
+317,28,Villa,Private room,Stephaniebury,Equatorial Guinea,1,2,"check, each, she, keep, picture",212.2
+318,75,Studio,Entire place,Karaberg,Iraq,5,1,"community, truth, college, ability, economy",375.65
+319,195,House,Shared room,East Melissa,Lebanon,5,1,"by, agency, will, effect, about",575.29
+320,187,Studio,Private room,South Barry,Guinea-Bissau,1,1,"receive, even, rich, firm, relate",726.24
+321,23,Studio,Shared room,North Danielbury,Senegal,4,3,"fine, nice, author, drive, several",536.13
+322,266,Villa,Shared room,South Lindseyville,Russian Federation,5,3,"international, perhaps, third, campaign, suddenly",914.92
+323,124,Apartment,Shared room,Littleport,Kazakhstan,3,2,"ever, way, sort, enough, control",733.06
+324,25,Villa,Private room,East Kevinshire,Ecuador,3,3,"successful, lot, force, best, anyone",637.03
+325,15,Studio,Entire place,North Alyssamouth,Burundi,2,2,"nor, itself, what, impact, another",210.33
+326,95,Studio,Shared room,North Nicoleville,Hong Kong,2,2,"great, partner, personal, mention, management",221.83
+327,20,Apartment,Private room,Stephensonborough,Northern Mariana Islands,3,3,"black, risk, number, until, visit",730.74
+328,80,Studio,Shared room,West Gregoryshire,Guernsey,3,2,"would, rather, radio, history, education",598.46
+329,76,House,Shared room,East Raymond,Equatorial Guinea,4,1,"expert, simple, full, travel, early",403.61
+330,182,Villa,Entire place,Maryview,Mozambique,4,1,"every, use, adult, them, somebody",383.79
+331,47,Villa,Shared room,Lake Kenneth,Pakistan,2,1,"risk, foreign, far, owner, common",351.81
+332,194,Studio,Shared room,Gamblehaven,Marshall Islands,4,2,"there, fall, tax, store, detail",892.85
+333,144,House,Entire place,East Jeremy,Russian Federation,5,3,"effect, design, in, education, bring",669.37
+334,272,House,Shared room,West Ronaldstad,Singapore,1,2,"bank, investment, both, maintain, near",849.71
+335,191,Apartment,Shared room,Matthewsmouth,Morocco,2,1,"other, test, whom, one, treat",646.62
+336,3,Apartment,Entire place,Ashleyborough,Tajikistan,3,3,"cause, fire, floor, concern, finally",586.58
+337,231,Studio,Shared room,Juanland,Slovenia,2,2,"her, through, collection, service, above",608.16
+338,15,Studio,Shared room,Williamsburgh,Namibia,5,1,"worry, sea, listen, enter, yourself",531.5
+339,183,Apartment,Entire place,Chambersburgh,Spain,2,2,"improve, thank, response, culture, manager",802.78
+340,101,Apartment,Private room,South Wendy,Aruba,4,2,"eat, leave, food, area, sea",427.81
+341,254,Apartment,Shared room,Barronmouth,Italy,5,1,"while, clear, run, sign, green",384.87
+342,20,House,Private room,West Tiffanyland,Pakistan,4,3,"total, staff, after, above, yet",524.97
+343,132,House,Entire place,East Jonathanview,Macao,2,1,"wonder, lead, section, yourself, actually",723.35
+344,188,Apartment,Private room,Briantown,Uruguay,1,2,"mind, wind, easy, experience, then",871.71
+345,87,Villa,Private room,Lauraton,Panama,4,2,"care, develop, standard, cut, wish",140.15
+346,124,Apartment,Entire place,Torresside,Cote d'Ivoire,5,3,"language, explain, sometimes, again, religious",877.75
+347,227,Villa,Private room,Port Justin,Mayotte,2,3,"safe, down, civil, PM, respond",68.87
+348,98,Villa,Private room,New Jessicatown,Canada,2,1,"want, commercial, firm, perhaps, machine",923.22
+349,31,House,Entire place,Robinsonmouth,Costa Rica,3,3,"song, important, receive, sound, late",448.27
+350,119,Studio,Shared room,Carrieside,Sao Tome and Principe,4,3,"state, call, cover, knowledge, early",90.53
+351,44,Apartment,Entire place,West Alison,Martinique,2,1,"fear, anything, between, at, win",366.68
+352,230,House,Private room,Michaelbury,India,2,1,"consumer, later, argue, some, say",969.25
+353,257,Studio,Entire place,Port Traceyville,Guatemala,4,3,"dark, group, allow, anyone, director",141.74
+354,45,Villa,Shared room,Stuartberg,Papua New Guinea,4,1,"local, collection, character, vote, message",853.21
+355,280,House,Entire place,Bakerhaven,Kiribati,1,3,"letter, option, example, guy, myself",858.66
+356,296,Apartment,Shared room,Monicahaven,Pakistan,1,2,"southern, energy, adult, officer, few",931.96
+357,107,Apartment,Private room,Port Williamfurt,United Arab Emirates,4,1,"Mrs, can, traditional, bring, PM",728.38
+358,106,Villa,Entire place,West Karenchester,Bermuda,4,1,"sell, win, since, appear, personal",770.18
+359,260,Villa,Private room,Port Laurenborough,Kyrgyz Republic,3,1,"significant, evidence, reflect, high, avoid",321.07
+360,294,Apartment,Private room,Drewfurt,Uganda,5,2,"serve, success, child, also, administration",671.53
+361,73,Studio,Shared room,Lake Jermainehaven,Bulgaria,3,2,"successful, process, billion, city, get",808.53
+362,247,Studio,Shared room,East Amandaport,Panama,4,1,"responsibility, final, sea, Congress, project",242.97
+363,145,House,Shared room,Lake Paulshire,Turkey,2,2,"sport, plant, feeling, government, expert",128.71
+364,32,House,Entire place,North Megan,Senegal,3,1,"always, budget, necessary, development, actually",537.25
+365,168,House,Entire place,Patriciaside,United Kingdom,4,2,"from, generation, even, lawyer, most",486.39
+366,183,House,Entire place,Michaelstad,Marshall Islands,2,3,"sister, remember, I, focus, spend",802.75
+367,116,Villa,Entire place,Josephfort,Isle of Man,1,2,"early, trade, among, generation, job",681.94
+368,21,Villa,Shared room,Lake Ashleyside,Egypt,1,3,"soldier, bill, without, bring, which",803.87
+369,93,Apartment,Entire place,West Heather,Wallis and Futuna,4,1,"among, boy, Mr, radio, Mrs",133.84
+370,219,Studio,Entire place,Markville,Palestinian Territory,3,3,"where, sea, people, traditional, prove",959.59
+371,155,House,Private room,Madisonside,Rwanda,2,3,"ok, certainly, picture, those, would",305.53
+372,66,Apartment,Entire place,Edwardsview,Anguilla,4,1,"food, catch, institution, arrive, however",604.62
+373,279,Villa,Shared room,Wilkinstown,Botswana,5,1,"magazine, senior, continue, maybe, why",969.74
+374,209,Studio,Shared room,Port Kathleen,American Samoa,3,1,"treat, once, almost, raise, eye",408.62
+375,194,Apartment,Private room,Brownbury,Paraguay,3,1,"by, consumer, control, commercial, contain",293.03
+376,112,Villa,Entire place,Lake Phillipborough,Saint Lucia,3,1,"speak, attorney, law, everything, outside",385.99
+377,100,Apartment,Private room,Port Williambury,Belgium,4,1,"anyone, citizen, amount, relate, indeed",529.93
+378,85,Apartment,Entire place,East Davidtown,Micronesia,4,2,"before, despite, foreign, eye, pass",314.27
+379,22,Apartment,Private room,Hernandeztown,Northern Mariana Islands,4,3,"property, worker, couple, memory, big",236.59
+380,226,Apartment,Shared room,Lake Seanville,Switzerland,3,2,"remember, process, trade, detail, wear",694.38
+381,97,Studio,Private room,South Juliatown,Angola,3,2,"change, research, hotel, sometimes, list",759.7
+382,259,House,Entire place,East Andreaport,North Macedonia,5,3,"choice, speech, artist, road, anything",707.01
+383,168,Studio,Shared room,Meyersport,Cuba,2,3,"type, center, author, top, respond",171.68
+384,191,Villa,Private room,Christineport,French Guiana,3,3,"bring, happen, shake, stop, play",642.42
+385,222,Villa,Shared room,Jessicaborough,Yemen,5,2,"option, experience, federal, interesting, task",988.84
+386,158,Apartment,Entire place,Esparzafurt,Ukraine,2,2,"fund, better, current, understand, executive",597.81
+387,112,House,Entire place,East Elizabethfort,Guatemala,1,3,"generation, art, almost, enjoy, pick",139.0
+388,177,Apartment,Private room,Hessshire,Venezuela,5,3,"firm, language, up, wrong, compare",953.2
+389,279,Apartment,Shared room,Jamesmouth,Trinidad and Tobago,5,2,"race, ago, general, matter, class",771.75
+390,135,Apartment,Private room,East Nicole,Yemen,1,2,"work, seat, marriage, employee, student",668.5
+391,12,Apartment,Private room,Floydville,Panama,2,3,"fine, recently, someone, southern, baby",913.5
+392,299,Villa,Private room,Port Jillian,France,5,1,"public, history, treat, ago, develop",438.81
+393,165,Apartment,Entire place,Donaldberg,Dominica,2,1,"raise, result, yourself, paper, speak",889.47
+394,191,Villa,Private room,Lucaston,Mayotte,2,3,"by, PM, set, mother, quickly",270.16
+395,12,House,Private room,North Staceytown,Micronesia,5,3,"speak, range, clearly, watch, very",373.02
+396,239,House,Private room,Port Allisonchester,Norway,4,3,"relationship, case, civil, indeed, forward",155.35
+397,121,House,Private room,Blanchardton,Malta,5,3,"behavior, few, beautiful, recent, if",757.49
+398,220,Villa,Entire place,Johnfurt,Canada,5,1,"system, say, suddenly, tough, economy",69.3
+399,11,Apartment,Shared room,South Briannaberg,Yemen,2,2,"act, field, enough, film, general",918.84
+400,27,Studio,Entire place,Port Lawrence,Zimbabwe,5,2,"energy, stay, difference, reason, tonight",885.27
+401,87,Villa,Entire place,East Stephenburgh,Saint Martin,4,1,"that, matter, black, one, help",828.92
+402,94,Studio,Shared room,East Juliaport,Canada,3,3,"bad, candidate, art, side, off",262.62
+403,106,Villa,Private room,North John,Slovenia,2,2,"great, paper, wife, particular, remember",146.96
+404,49,Villa,Entire place,East Angie,Maldives,1,3,"newspaper, summer, Mr, yet, as",878.69
+405,100,Studio,Shared room,Lake Janicechester,Ecuador,4,3,"reduce, lose, most, fill, yeah",452.08
+406,164,Studio,Private room,Taylorberg,Falkland Islands (Malvinas),2,1,"traditional, no, energy, feeling, stand",381.46
+407,2,Apartment,Private room,Mcdowellton,Congo,1,3,"international, fly, wide, hit, once",270.74
+408,288,Studio,Shared room,Williamsfort,Indonesia,4,3,"sit, field, pay, bring, piece",130.97
+409,138,Studio,Shared room,West Jamesport,Chad,2,1,"while, list, too, say, affect",491.42
+410,21,House,Shared room,Markbury,Cyprus,5,1,"particularly, morning, program, door, range",826.0
+411,181,House,Private room,Timothymouth,Andorra,5,1,"water, author, father, center, day",145.61
+412,128,Villa,Private room,Boyertown,Heard Island and McDonald Islands,5,2,"race, law, add, outside, firm",527.88
+413,218,Studio,Shared room,East Anthonytown,Paraguay,2,3,"let, sport, such, physical, act",390.87
+414,241,Studio,Private room,Christopherburgh,Switzerland,5,1,"green, debate, floor, law, television",876.5
+415,2,Studio,Entire place,Port Rebecca,Hungary,1,1,"them, through, significant, local, five",116.52
+416,229,Villa,Private room,Port Teresaborough,Tajikistan,3,3,"outside, attention, at, act, better",104.78
+417,232,Apartment,Private room,Angelaville,Luxembourg,5,2,"on, forward, couple, music, resource",903.22
+418,231,Studio,Shared room,East Sarah,Djibouti,2,2,"clear, bar, pattern, choice, sister",199.32
+419,226,Studio,Private room,Michelletown,Faroe Islands,1,2,"page, stock, really, it, third",116.73
+420,247,Apartment,Entire place,South Andrew,Congo,5,3,"sometimes, door, book, money, end",888.48
+421,104,Villa,Shared room,Stanleyside,Ukraine,5,2,"movie, score, drug, reason, character",824.95
+422,82,Apartment,Private room,Lake Ronald,Guyana,5,3,"relate, garden, fact, stop, hair",107.14
+423,225,House,Entire place,Robertberg,Timor-Leste,2,2,"important, something, hope, everything, sure",546.32
+424,121,Apartment,Private room,Wendyburgh,Fiji,3,2,"seven, off, why, better, occur",833.57
+425,84,House,Shared room,North Martinchester,Ireland,5,2,"sell, thing, research, week, space",957.32
+426,147,Villa,Private room,East James,Indonesia,5,1,"full, upon, only, Congress, area",774.65
+427,117,Villa,Shared room,Mccoyton,Sierra Leone,3,1,"course, TV, good, music, offer",819.85
+428,238,Studio,Shared room,Dixonbury,Slovenia,5,2,"young, Democrat, pull, lose, green",96.25
+429,191,Apartment,Entire place,East Matthew,Georgia,2,3,"radio, stand, listen, learn, fish",946.2
+430,262,House,Entire place,Kaufmanstad,Costa Rica,3,3,"office, lot, fine, high, yourself",206.48
+431,86,Studio,Shared room,Vanessaview,French Guiana,2,1,"expect, generation, wind, appear, reduce",368.9
+432,195,Villa,Entire place,Kristihaven,Guatemala,3,3,"responsibility, prevent, structure, add, answer",134.93
+433,227,House,Private room,West Michaelmouth,Kyrgyz Republic,5,1,"wonder, near, finish, gas, sport",724.67
+434,20,Studio,Entire place,Rayhaven,Fiji,3,1,"make, century, rate, Mrs, value",369.78
+435,211,House,Shared room,New Stephen,Tuvalu,2,2,"join, tough, class, argue, generation",293.39
+436,181,Studio,Shared room,Lake Philip,Kazakhstan,2,3,"son, care, population, remain, prepare",542.14
+437,91,Studio,Entire place,Ochoafort,Nigeria,1,2,"without, traditional, Democrat, who, if",601.91
+438,104,Villa,Entire place,Lucasmouth,Micronesia,1,1,"camera, return, involve, feel, war",650.45
+439,129,Apartment,Entire place,New Philip,Paraguay,4,1,"by, firm, hand, name, establish",695.06
+440,296,Studio,Shared room,North Patrickville,Norway,4,2,"culture, record, also, discover, herself",618.21
+441,57,Studio,Shared room,Lake Nataliefurt,United Arab Emirates,5,2,"statement, ground, make, prepare, moment",415.9
+442,132,Apartment,Shared room,West Luismouth,Azerbaijan,5,1,"agree, like, center, three, physical",608.19
+443,16,Villa,Private room,South Rachel,Greenland,2,2,"court, risk, describe, summer, name",440.59
+444,290,House,Entire place,North Jonburgh,El Salvador,2,3,"more, page, miss, sister, across",893.79
+445,298,Studio,Private room,Tonishire,Russian Federation,3,2,"student, wonder, allow, every, PM",622.71
+446,185,Villa,Private room,North Sarah,Nicaragua,1,3,"off, trial, whole, such, no",622.85
+447,245,House,Entire place,Hectorfort,Tuvalu,5,3,"current, body, store, then, senior",610.02
+448,34,Villa,Shared room,Larsonberg,Haiti,1,3,"let, shoulder, theory, usually, wife",458.61
+449,85,Studio,Entire place,Andreachester,Mauritius,3,3,"under, inside, yet, method, certainly",431.79
+450,292,Apartment,Shared room,North Carlos,Luxembourg,1,3,"staff, change, total, husband, professional",891.73
+451,139,Apartment,Private room,Vasquezside,Niue,3,3,"join, institution, beyond, low, through",543.06
+452,103,Apartment,Entire place,West Lisa,Monaco,2,3,"help, consider, opportunity, again, discussion",289.48
+453,160,House,Shared room,East Elizabeth,Nigeria,5,3,"second, even, head, medical, several",163.44
+454,136,Studio,Shared room,Dannyton,Venezuela,1,3,"myself, guy, effect, dinner, card",780.02
+455,31,Studio,Private room,Thomasberg,Swaziland,4,2,"even, study, claim, her, per",756.63
+456,136,Villa,Shared room,Avilaburgh,Paraguay,5,2,"do, technology, agree, stage, allow",323.07
+457,88,Apartment,Private room,Heidiside,Norfolk Island,2,2,"nothing, ball, indeed, build, teach",370.12
+458,263,Apartment,Entire place,Hallside,Cyprus,1,3,"program, bit, color, among, blood",975.92
+459,66,Studio,Shared room,Port Amytown,Saint Martin,1,1,"feeling, poor, fast, lot, challenge",832.79
+460,61,Studio,Shared room,Christinaborough,Australia,1,3,"Congress, bit, measure, two, hundred",500.16
+461,146,Studio,Entire place,South Michelle,Bulgaria,3,1,"agency, now, society, threat, situation",852.68
+462,274,Villa,Entire place,South Julie,Bosnia and Herzegovina,4,1,"stand, along, population, owner, item",498.41
+463,137,Villa,Entire place,South Julia,Malta,4,1,"they, management, office, care, summer",325.8
+464,276,Villa,Shared room,Cervantesfurt,Latvia,3,3,"fine, thus, people, career, indeed",482.69
+465,129,Studio,Private room,West Laura,Tuvalu,2,2,"us, law, owner, ahead, water",922.81
+466,221,Studio,Shared room,Jeanettemouth,Azerbaijan,3,2,"computer, off, she, kind, walk",851.74
+467,221,Apartment,Entire place,Lucasstad,Benin,1,2,"many, lot, see, current, truth",385.83
+468,174,Studio,Entire place,West Amandaton,Seychelles,3,1,"suddenly, no, so, up, once",335.9
+469,172,House,Shared room,New Richard,French Polynesia,2,3,"per, health, itself, guy, imagine",868.24
+470,274,Apartment,Shared room,Crystalton,Saint Vincent and the Grenadines,1,1,"face, toward, perhaps, reality, building",694.52
+471,221,House,Shared room,Williamburgh,Cote d'Ivoire,3,2,"training, it, Republican, may, pass",203.12
+472,298,House,Shared room,East Bradleyhaven,Niue,3,1,"crime, local, analysis, ten, without",219.39
+473,21,House,Shared room,South Kevin,Macao,3,1,"wall, what, join, force, threat",822.32
+474,35,Villa,Private room,Edwardside,Iraq,3,2,"activity, suffer, ask, race, theory",578.42
+475,95,House,Entire place,Port Samantha,Bahrain,4,3,"capital, member, million, best, them",651.41
+476,118,House,Private room,Zamoraville,Guadeloupe,1,1,"thank, some, increase, best, keep",345.47
+477,11,Apartment,Entire place,West Emily,Japan,5,3,"happen, product, suffer, produce, pattern",504.47
+478,286,Studio,Private room,Port Nicoleton,Mexico,1,1,"two, risk, threat, affect, list",501.95
+479,143,Studio,Entire place,Keithland,Guernsey,4,2,"student, figure, alone, game, media",175.29
+480,50,Villa,Entire place,Williambury,Saint Kitts and Nevis,3,1,"save, person, news, send, audience",279.09
+481,41,House,Private room,Port Bethany,Pitcairn Islands,1,2,"staff, whole, concern, play, section",321.35
+482,211,House,Entire place,West Amychester,Kyrgyz Republic,4,1,"address, pretty, child, design, conference",380.64
+483,50,House,Shared room,South Johnborough,Congo,1,1,"indicate, order, your, social, much",874.5
+484,155,Apartment,Shared room,Travisshire,Italy,2,3,"player, war, as, respond, establish",936.23
+485,122,Apartment,Private room,Michaelshire,El Salvador,5,3,"morning, decision, body, style, sort",73.8
+486,107,Apartment,Shared room,Lake Harry,Singapore,3,2,"section, language, west, special, likely",440.99
+487,224,Villa,Private room,New Brian,Ghana,5,1,"bag, former, ability, son, which",694.86
+488,270,Villa,Shared room,Port Nicholas,Dominica,5,3,"look, glass, similar, pick, provide",662.96
+489,10,Studio,Shared room,South Brandon,Bahrain,5,2,"whatever, civil, grow, road, represent",708.45
+490,231,Villa,Shared room,Janicehaven,New Zealand,4,2,"everybody, free, since, be, reach",385.78
+491,50,Villa,Private room,Port Thomas,Antigua and Barbuda,5,1,"life, begin, back, either, large",611.06
+492,91,Apartment,Entire place,East Deborahhaven,Panama,5,3,"wind, discover, moment, arm, can",658.12
+493,80,Studio,Entire place,Lake Kaitlinport,Portugal,2,1,"while, democratic, little, stand, keep",211.57
+494,60,Apartment,Shared room,Monicamouth,Slovakia (Slovak Republic),1,2,"term, letter, by, school, oil",292.86
+495,201,Studio,Entire place,Lake Erikachester,Guatemala,4,2,"maintain, smile, father, evidence, mention",532.8
+496,43,Apartment,Private room,Sabrinachester,Botswana,5,1,"until, behind, those, read, mouth",426.62
+497,264,Studio,Shared room,East Nichole,United States of America,2,3,"four, man, time, I, student",553.51
+498,96,Villa,Private room,Port Bradley,Reunion,2,1,"whom, other, standard, above, about",280.33
+499,239,Villa,Private room,West Teresa,Gibraltar,1,3,"yard, ok, concern, stop, improve",405.54
+500,234,Villa,Shared room,West Kyleville,Honduras,1,1,"measure, blue, take, own, weight",52.4
+501,198,Villa,Private room,North Andrewmouth,French Guiana,3,3,"Republican, start, structure, help, friend",872.6
+502,187,Villa,Private room,Whitefort,Angola,1,1,"technology, gun, if, somebody, green",72.51
+503,300,Villa,Private room,Rothtown,Singapore,3,3,"skill, use, little, side, economy",133.74
+504,9,House,Shared room,New Rebeccamouth,Denmark,3,1,"contain, travel, level, age, town",181.99
+505,152,Apartment,Entire place,South Miranda,Congo,3,1,"baby, need, day, TV, amount",853.76
+506,146,Apartment,Shared room,East Shelleychester,Jordan,4,3,"stay, box, care, research, wind",900.45
+507,146,Villa,Entire place,Mcguirehaven,Kiribati,5,2,"form, but, my, argue, note",224.99
+508,110,Apartment,Private room,North Matthewchester,Korea,5,3,"there, who, have, various, away",291.7
+509,244,Studio,Private room,West Pamelahaven,Tanzania,4,1,"from, career, present, site, between",81.85
+510,43,House,Entire place,Travisview,South Georgia and the South Sandwich Islands,3,3,"risk, result, design, decade, whose",370.35
+511,173,Studio,Entire place,Leehaven,Netherlands,4,1,"of, degree, attorney, hair, week",665.04
+512,290,Apartment,Shared room,South Monicahaven,Jordan,2,1,"take, training, effort, window, month",710.2
+513,55,House,Private room,West Timothy,Latvia,4,1,"prevent, surface, fight, year, event",768.06
+514,64,House,Entire place,North Natalie,Cambodia,5,2,"month, within, bed, quickly, eye",685.0
+515,52,Villa,Entire place,Gutierrezton,Djibouti,5,2,"stay, smile, paper, population, grow",289.46
+516,166,Studio,Private room,Sheilaborough,Nigeria,3,3,"major, both, space, able, debate",561.13
+517,253,House,Shared room,Lake Jessicamouth,Palau,5,1,"key, environmental, question, energy, kid",298.08
+518,123,Studio,Entire place,North Dorothyview,British Indian Ocean Territory (Chagos Archipelago),4,2,"per, prepare, particularly, dog, hand",844.36
+519,85,Villa,Shared room,North Troy,Ghana,3,1,"often, perhaps, bag, chance, attention",407.77
+520,121,House,Private room,Jasonburgh,Ireland,3,2,"of, music, surface, sort, already",953.41
+521,126,House,Entire place,New Toddfort,Thailand,4,2,"consumer, stuff, student, home, level",570.87
+522,295,Apartment,Entire place,South Deborahton,Belize,3,3,"evening, as, while, day, sing",381.58
+523,191,Apartment,Private room,East Linda,Angola,3,2,"avoid, rather, line, herself, officer",583.59
+524,120,House,Entire place,Lake Alexanderhaven,Sweden,2,3,"believe, theory, interview, but, glass",521.59
+525,177,House,Private room,New Lindashire,Bosnia and Herzegovina,4,3,"measure, wide, herself, tell, big",351.01
+526,253,Studio,Entire place,Jenniferchester,Kiribati,2,2,"something, these, Congress, media, see",794.62
+527,57,Studio,Private room,East Chad,United States of America,1,1,"degree, state, series, very, ten",575.39
+528,232,Apartment,Shared room,Nealtown,Haiti,3,1,"individual, yard, everything, option, plant",880.98
+529,207,Villa,Entire place,Joneston,India,2,3,"why, near, nation, baby, somebody",804.0
+530,5,Apartment,Entire place,Carolynton,Venezuela,2,2,"mean, top, oil, material, be",105.68
+531,251,House,Entire place,North Michaelfort,Gibraltar,4,2,"window, toward, peace, success, cut",515.04
+532,181,Studio,Entire place,Katieburgh,Gambia,2,2,"I, until, mother, woman, national",615.94
+533,129,House,Private room,Brownton,Netherlands Antilles,3,3,"director, why, daughter, movie, operation",692.01
+534,254,Studio,Entire place,North Richardport,Kiribati,2,1,"physical, firm, laugh, happy, security",895.38
+535,61,Villa,Shared room,North Michele,Burkina Faso,2,3,"air, last, west, both, contain",326.27
+536,289,House,Private room,Jamestown,Hungary,4,3,"experience, start, until, serve, among",549.31
+537,22,House,Entire place,Thomasmouth,Sao Tome and Principe,4,2,"could, hospital, significant, rise, accept",703.26
+538,141,Studio,Private room,Ronnieland,Bhutan,2,3,"but, have, skin, feel, yeah",933.49
+539,183,Villa,Private room,New Brianland,Malawi,4,3,"government, soon, mouth, anything, parent",342.21
+540,187,Studio,Entire place,North Karenton,Western Sahara,2,3,"section, inside, better, professor, establish",832.72
+541,167,House,Private room,Ruizchester,Ghana,3,2,"TV, four, oil, actually, eye",645.79
+542,171,Studio,Shared room,East Shelbyview,Fiji,4,3,"level, Congress, determine, movement, only",96.57
+543,156,House,Shared room,Lopezland,Mauritius,4,1,"upon, western, show, have, study",216.3
+544,239,Villa,Entire place,Port Thomas,Svalbard & Jan Mayen Islands,3,1,"budget, baby, common, maybe, official",599.93
+545,181,House,Entire place,New Michael,El Salvador,2,2,"heavy, produce, trip, director, time",626.34
+546,81,Studio,Private room,Cookshire,Saint Pierre and Miquelon,4,3,"agent, course, similar, me, rock",846.18
+547,197,House,Shared room,Leechester,Venezuela,1,3,"five, body, hot, speech, level",956.79
+548,229,Villa,Private room,North Reginaldville,Spain,3,1,"either, finally, improve, artist, suddenly",640.8
+549,17,Apartment,Entire place,Michaelberg,Tanzania,1,2,"under, toward, election, look, customer",566.32
+550,215,Studio,Entire place,Larsonton,Saint Pierre and Miquelon,5,2,"trade, security, soldier, question, network",244.48
+551,232,Apartment,Shared room,West Theodorefort,Netherlands,1,1,"popular, commercial, social, leg, story",257.76
+552,225,House,Private room,West James,Uganda,5,3,"process, though, upon, agency, picture",855.86
+553,241,House,Private room,Georgeborough,Pitcairn Islands,1,2,"space, administration, kind, between, evidence",945.09
+554,151,Villa,Shared room,West Jaimebury,Malawi,1,1,"prevent, without, spring, road, think",969.93
+555,171,Villa,Entire place,Jeffreyside,Lesotho,2,1,"whether, technology, practice, interview, reality",58.01
+556,190,Studio,Entire place,Charlesville,Pakistan,5,3,"watch, near, here, popular, whether",277.31
+557,103,Apartment,Shared room,New Garytown,Palau,3,3,"do, wrong, quickly, growth, wear",420.04
+558,116,Apartment,Shared room,Brandonhaven,Brunei Darussalam,2,2,"ten, design, various, push, important",381.17
+559,44,House,Shared room,New Daniellechester,Monaco,4,2,"maybe, law, interest, southern, model",962.11
+560,85,Villa,Private room,Lake Robert,Venezuela,3,3,"popular, knowledge, story, order, give",277.95
+561,209,Villa,Private room,West Dwayne,Niger,2,2,"many, cold, color, law, remember",555.57
+562,167,Studio,Shared room,Frankborough,Netherlands Antilles,3,1,"worry, yes, old, indicate, camera",923.12
+563,233,Villa,Shared room,Lake Donaldland,Ireland,5,3,"what, begin, minute, investment, understand",809.15
+564,141,Villa,Shared room,West Angela,Syrian Arab Republic,2,2,"decide, throughout, rock, possible, big",692.81
+565,120,Villa,Private room,North Normatown,Albania,1,1,"throughout, hit, discuss, evidence, lot",566.15
+566,202,Villa,Shared room,Clarkside,Lao People's Democratic Republic,1,2,"whether, experience, tough, five, alone",388.09
+567,125,Studio,Entire place,Mitchelltown,Saint Vincent and the Grenadines,1,2,"life, suggest, change, significant, price",617.86
+568,26,Villa,Private room,Amberchester,Colombia,3,3,"participant, cut, white, direction, form",854.36
+569,235,House,Private room,New Sarahland,Falkland Islands (Malvinas),4,2,"many, provide, player, evening, of",279.24
+570,31,Studio,Entire place,Acostaberg,Gabon,5,1,"condition, technology, region, million, safe",643.68
+571,21,House,Private room,Ortizshire,Brazil,1,3,"individual, pattern, away, responsibility, education",627.5
+572,63,Apartment,Shared room,Riveraport,Mauritania,3,2,"sit, his, fear, if, billion",801.09
+573,121,Villa,Entire place,Amandatown,Turkey,5,3,"market, college, process, put, history",665.54
+574,142,Villa,Private room,Sandyville,Kiribati,1,1,"century, interesting, training, keep, type",519.24
+575,134,Villa,Entire place,Hardinland,Yemen,2,3,"kitchen, Republican, really, create, suddenly",634.18
+576,61,Villa,Shared room,East Josephchester,Falkland Islands (Malvinas),1,2,"available, war, future, all, attack",544.09
+577,294,House,Shared room,Lake Martinfort,Cote d'Ivoire,3,3,"like, many, billion, reflect, project",302.07
+578,213,House,Private room,Robertsland,Cameroon,1,2,"capital, someone, bill, event, agreement",318.7
+579,142,House,Shared room,Ryanfurt,Bhutan,4,1,"war, truth, body, career, rise",361.48
+580,285,House,Private room,Davidstad,Norway,2,2,"very, church, wife, economic, goal",625.19
+581,297,Studio,Entire place,Dunnmouth,Libyan Arab Jamahiriya,5,1,"wish, budget, later, exactly, as",848.73
+582,230,Apartment,Shared room,Laurachester,Finland,3,2,"account, beyond, but, finish, morning",853.85
+583,40,House,Shared room,South Katie,Peru,1,3,"could, ok, his, state, avoid",398.56
+584,213,Studio,Entire place,Lake Danielle,Guatemala,4,3,"impact, hand, modern, left, check",816.25
+585,249,Villa,Shared room,East Tamara,Kuwait,1,3,"rule, a, subject, recently, through",142.57
+586,196,Villa,Private room,North Zachary,Cuba,3,3,"continue, short, ability, side, walk",561.7
+587,50,Studio,Private room,Lake Thomaschester,Georgia,1,3,"here, see, woman, analysis, none",545.82
+588,96,Villa,Shared room,West Michael,Antarctica (the territory South of 60 deg S),1,1,"stock, address, guess, true, list",763.92
+589,136,House,Private room,Donaldview,Iraq,3,2,"quite, research, money, better, site",153.87
+590,251,Villa,Shared room,Lake John,Uganda,5,2,"relate, seat, power, reduce, however",169.99
+591,26,House,Private room,Wrighttown,Denmark,2,2,"whole, everything, degree, help, catch",988.26
+592,146,Apartment,Shared room,West Ruthtown,United States of America,3,1,"consider, statement, performance, ok, a",91.2
+593,95,House,Shared room,Ashleyburgh,Bosnia and Herzegovina,4,2,"national, public, society, face, to",252.48
+594,99,House,Private room,East Maureen,Morocco,4,3,"tell, sea, just, if, condition",940.73
+595,125,Apartment,Entire place,South Sherry,United Kingdom,4,1,"eight, here, something, task, no",236.26
+596,86,Apartment,Shared room,South Toddberg,Cape Verde,3,2,"institution, phone, add, anything, sport",886.09
+597,273,House,Shared room,West Charlene,Congo,1,2,"although, stock, protect, yourself, practice",714.42
+598,285,Studio,Entire place,Garciafurt,South Africa,1,1,"free, might, performance, although, happen",317.9
+599,34,House,Private room,New Robertfurt,Grenada,3,1,"option, once, rich, compare, Congress",143.97
+600,15,House,Private room,Jennifershire,Slovenia,2,3,"style, view, PM, cost, huge",825.38
+601,72,Studio,Entire place,Port Kennethville,Eritrea,2,2,"series, five, night, rise, instead",108.5
+602,86,Villa,Entire place,West Amanda,Mauritius,3,3,"show, turn, address, bag, resource",591.25
+603,298,House,Shared room,Alvaradofurt,Cocos (Keeling) Islands,4,3,"word, energy, ask, people, baby",984.01
+604,254,House,Shared room,Porterberg,Solomon Islands,1,1,"foreign, field, think, never, hard",244.42
+605,146,Studio,Entire place,Burtonville,Ghana,2,1,"production, player, large, together, former",376.99
+606,117,Studio,Shared room,Wardtown,Malta,5,1,"meeting, although, debate, town, money",654.23
+607,220,Villa,Private room,South Christopher,Georgia,2,3,"much, management, sometimes, happy, style",529.03
+608,69,House,Entire place,East Jasonstad,Malta,1,3,"foreign, movement, gas, year, source",558.39
+609,196,House,Private room,South Anna,Kyrgyz Republic,5,3,"consider, executive, meet, travel, officer",106.92
+610,230,House,Private room,New Stevenland,Faroe Islands,3,2,"eye, animal, specific, beyond, tonight",682.94
+611,235,Apartment,Private room,New Samantha,Honduras,2,2,"south, somebody, during, nice, different",351.81
+612,95,Apartment,Private room,East Cameron,Lebanon,4,1,"than, form, ago, detail, far",184.37
+613,191,Villa,Private room,Port Ashleyberg,Gibraltar,2,3,"lay, most, suffer, civil, east",602.44
+614,174,House,Shared room,Delacruzchester,Morocco,2,3,"top, field, increase, throughout, boy",343.03
+615,199,Studio,Entire place,East Davidside,Mali,1,3,"break, call, ask, campaign, now",599.87
+616,217,House,Private room,East Jennifer,Peru,2,3,"skill, benefit, measure, area, send",533.49
+617,20,Villa,Shared room,Meyersborough,Nauru,2,1,"name, boy, decide, perhaps, road",410.47
+618,197,Studio,Private room,South Candiceborough,Argentina,3,3,"develop, hair, front, pick, buy",185.36
+619,68,House,Entire place,Wardstad,Uruguay,3,2,"sit, medical, base, state, sister",85.22
+620,13,Villa,Entire place,Lake David,Taiwan,5,3,"interesting, add, left, goal, husband",533.4
+621,128,House,Shared room,Davischester,Romania,1,1,"mission, reveal, during, sea, visit",985.81
+622,86,House,Private room,Omarmouth,Niue,5,2,"answer, manager, enough, government, agent",90.24
+623,268,Studio,Shared room,Garciastad,Yemen,1,1,"put, nor, west, loss, direction",629.7
+624,77,House,Private room,Lake Josephtown,New Zealand,3,1,"future, face, life, sound, under",412.6
+625,38,Studio,Entire place,East Joyberg,Spain,4,2,"often, interest, professor, student, chance",129.62
+626,61,Villa,Entire place,New Michael,Indonesia,2,3,"entire, away, strategy, article, first",702.9
+627,259,Villa,Private room,Huffville,Marshall Islands,3,3,"identify, analysis, me, politics, machine",516.98
+628,203,Villa,Private room,East Michael,Sudan,3,3,"history, audience, onto, or, produce",716.57
+629,38,Villa,Private room,South Lynnville,Western Sahara,3,3,"news, size, eight, for, rule",224.34
+630,299,Apartment,Entire place,South Laura,Western Sahara,4,3,"something, decade, organization, less, choose",519.51
+631,154,Apartment,Entire place,Kellyfurt,Antigua and Barbuda,5,1,"year, you, try, recently, tough",76.36
+632,225,Apartment,Entire place,Brianstad,Myanmar,5,1,"pick, early, instead, learn, attention",604.41
+633,24,Apartment,Entire place,Thomasberg,Madagascar,4,3,"section, place, here, let, knowledge",372.21
+634,121,Apartment,Private room,North Tinafurt,Saint Pierre and Miquelon,3,1,"responsibility, middle, financial, go, drop",128.78
+635,34,Studio,Entire place,Cardenasborough,Northern Mariana Islands,5,3,"school, threat, sit, whether, than",129.33
+636,230,Villa,Private room,New Daniel,Saint Lucia,2,2,"most, fire, stop, investment, success",684.6
+637,108,Apartment,Private room,Davidstad,Antigua and Barbuda,4,2,"difference, myself, past, clearly, daughter",900.21
+638,163,Studio,Entire place,Larryview,Isle of Man,1,1,"most, thing, wish, least, control",108.9
+639,226,House,Private room,Shannonmouth,Brazil,3,1,"sister, manage, agree, to, stay",911.81
+640,1,Villa,Shared room,North Shannon,Latvia,4,1,"daughter, tough, safe, consumer, room",385.56
+641,300,Villa,Private room,South George,Falkland Islands (Malvinas),5,2,"body, power, mission, determine, describe",981.1
+642,88,House,Entire place,Lewisbury,Malawi,1,1,"identify, hold, too, state, improve",851.08
+643,276,Apartment,Shared room,West Keithton,Guam,3,2,"statement, necessary, tell, sister, once",113.66
+644,267,Apartment,Private room,Christinachester,El Salvador,3,3,"production, cell, particularly, short, million",937.3
+645,300,House,Private room,North Nicole,France,3,3,"thus, because, view, party, president",348.48
+646,50,House,Entire place,Thompsonport,Fiji,4,1,"great, certain, lose, number, citizen",686.26
+647,282,Villa,Entire place,Port Alexis,Brunei Darussalam,5,3,"administration, others, ground, fly, development",865.19
+648,118,House,Entire place,New Andreaton,Northern Mariana Islands,3,2,"program, never, poor, she, would",968.1
+649,80,Studio,Entire place,Cunninghamhaven,Turkey,5,1,"better, from, statement, prepare, degree",603.05
+650,252,House,Shared room,South Nichole,United States Virgin Islands,5,2,"leader, forget, really, thought, billion",999.67
+651,197,House,Entire place,Mercerland,Papua New Guinea,4,3,"woman, pattern, any, before, teacher",982.64
+652,252,Villa,Private room,New Alexisstad,United Kingdom,3,2,"rest, large, as, heart, them",675.84
+653,137,Apartment,Entire place,Braunfurt,North Macedonia,3,2,"get, receive, several, around, common",629.43
+654,232,House,Private room,Davidview,Niger,3,3,"child, area, civil, play, some",748.22
+655,267,House,Private room,Wadechester,Japan,2,2,"think, none, west, college, follow",396.89
+656,91,Apartment,Shared room,Port Joshuaton,Portugal,3,2,"experience, day, plan, foreign, move",139.91
+657,107,Villa,Shared room,Bryantborough,Honduras,2,3,"professional, television, watch, college, expert",289.27
+658,39,Villa,Entire place,New Matthewburgh,Bulgaria,1,1,"actually, agreement, eat, administration, matter",988.94
+659,292,Studio,Shared room,Paynefurt,Dominican Republic,2,1,"girl, yes, reality, reality, family",265.92
+660,213,Studio,Private room,Ashleytown,Zimbabwe,1,2,"ask, fear, economy, model, speak",462.84
+661,67,Apartment,Shared room,North Carl,New Caledonia,2,3,"staff, whether, increase, suffer, as",321.13
+662,118,Villa,Private room,Port Calebport,New Zealand,4,1,"camera, campaign, history, hot, drug",691.56
+663,242,Villa,Shared room,South Aliciachester,Austria,1,3,"scene, need, offer, serve, shake",807.31
+664,181,Villa,Shared room,Gregoryview,Grenada,1,2,"happen, continue, personal, seem, already",917.25
+665,6,Apartment,Private room,New Mary,Finland,5,3,"main, think, social, pattern, husband",675.36
+666,91,Villa,Shared room,Johnsonshire,Latvia,5,3,"page, product, value, more, price",476.16
+667,96,House,Shared room,North Samanthachester,Finland,4,1,"list, thousand, among, information, available",158.04
+668,226,House,Shared room,Brandontown,Tonga,5,1,"four, magazine, organization, again, reflect",783.61
+669,182,House,Entire place,Floreston,Eritrea,2,1,"bad, receive, major, which, state",793.79
+670,159,Villa,Entire place,Simpsonchester,Spain,5,1,"miss, fine, personal, boy, remain",914.3
+671,80,Apartment,Entire place,West Sheilaborough,Peru,4,1,"matter, cut, central, board, loss",265.41
+672,179,Studio,Shared room,North James,Belarus,5,1,"whom, quite, approach, would, before",349.66
+673,241,Apartment,Shared room,East Robert,Bouvet Island (Bouvetoya),5,3,"cup, than, reflect, including, buy",798.17
+674,34,House,Private room,Thomaschester,Pakistan,4,1,"under, analysis, energy, seem, nearly",122.22
+675,154,House,Entire place,Longfort,Northern Mariana Islands,2,3,"bad, include, never, professional, along",364.69
+676,120,Studio,Private room,Trujillohaven,Lesotho,4,2,"significant, approach, instead, weight, important",196.32
+677,243,Studio,Entire place,East Amanda,Norway,4,1,"huge, want, people, free, theory",205.88
+678,48,Studio,Private room,South Bianca,Japan,5,2,"population, anyone, style, cup, nice",451.05
+679,40,Apartment,Entire place,West Michaelshire,Antarctica (the territory South of 60 deg S),2,3,"industry, course, book, various, opportunity",596.64
+680,98,Villa,Entire place,Patrickshire,Israel,4,3,"write, produce, which, arrive, Democrat",936.96
+681,171,Villa,Private room,Carterhaven,Korea,5,2,"few, land, animal, the, spend",969.26
+682,3,Apartment,Entire place,Andradeburgh,Guam,2,2,"allow, effort, none, line, black",569.47
+683,98,Apartment,Shared room,South Bryan,Netherlands Antilles,2,2,"suddenly, inside, reality, agree, interview",704.2
+684,97,Studio,Entire place,North William,Montserrat,1,1,"none, party, firm, on, throughout",795.51
+685,100,Studio,Entire place,North Kristinamouth,Venezuela,3,3,"benefit, character, about, low, street",590.86
+686,286,Villa,Shared room,South Peter,Turks and Caicos Islands,2,3,"effort, glass, also, partner, after",768.35
+687,216,Studio,Entire place,East Destiny,Jordan,4,1,"world, rule, eight, eat, word",637.54
+688,82,House,Shared room,New Tammyberg,Switzerland,1,1,"late, leader, home, yard, get",923.94
+689,209,House,Shared room,Lisaburgh,South Africa,4,2,"receive, decide, probably, you, most",621.55
+690,200,Villa,Entire place,South Michelestad,Turks and Caicos Islands,5,3,"test, everyone, north, late, TV",641.83
+691,181,Studio,Entire place,South Corey,Jamaica,4,1,"still, spend, hospital, theory, try",322.48
+692,216,Apartment,Shared room,Stonetown,Dominica,5,1,"class, section, team, skin, music",830.28
+693,253,House,Entire place,Weberview,Turkey,5,3,"production, increase, professor, him, soldier",335.17
+694,288,Apartment,Private room,East Racheltown,Turkey,5,2,"word, traditional, consider, win, nice",642.9
+695,97,Apartment,Shared room,Medinafort,Iceland,5,1,"present, structure, begin, long, possible",698.4
+696,59,Studio,Private room,Barbaraville,Grenada,1,1,"them, majority, unit, knowledge, Republican",981.3
+697,237,Villa,Entire place,Erichaven,Micronesia,5,2,"since, enter, degree, give, present",777.32
+698,177,Villa,Private room,Rangelbury,Isle of Man,2,1,"hit, lot, serious, close, fast",909.57
+699,253,Studio,Shared room,Rojasport,Nepal,5,2,"response, base, turn, appear, be",763.84
+700,242,Villa,Shared room,Sheilachester,United States Minor Outlying Islands,3,3,"investment, down, small, learn, carry",153.43
+701,4,Villa,Private room,Lake Victorton,Lao People's Democratic Republic,4,2,"part, in, spring, authority, part",998.12
+702,53,Studio,Entire place,Anthonyshire,Micronesia,4,2,"fight, moment, carry, list, executive",123.1
+703,112,Apartment,Private room,Christophertown,Gabon,3,2,"finally, girl, sometimes, song, cup",195.24
+704,239,Apartment,Shared room,Brownview,French Polynesia,1,2,"civil, age, total, close, million",679.9
+705,169,Villa,Shared room,Howestad,Andorra,4,3,"staff, likely, above, raise, performance",782.76
+706,222,House,Entire place,East Edwinshire,Venezuela,5,1,"compare, television, same, between, special",994.41
+707,270,House,Shared room,Luceroview,San Marino,2,3,"human, young, accept, management, dark",476.29
+708,146,Apartment,Private room,Kennethside,Luxembourg,4,1,"child, ever, front, be, physical",879.01
+709,124,House,Entire place,Christianside,Madagascar,4,1,"two, owner, research, want, song",701.64
+710,144,Apartment,Shared room,East Ryan,Taiwan,5,2,"same, owner, president, American, be",885.62
+711,89,House,Entire place,Port Marialand,Timor-Leste,5,2,"environmental, contain, them, keep, quality",954.85
+712,293,Villa,Shared room,West Jasmine,Saint Martin,5,3,"budget, material, attack, decision, without",465.45
+713,268,Apartment,Private room,Jodiville,Gambia,1,3,"all, strong, determine, remember, may",435.26
+714,209,House,Entire place,East Joshua,Australia,3,2,"become, enough, thousand, plan, take",626.9
+715,125,House,Private room,Powellmouth,Bouvet Island (Bouvetoya),5,3,"involve, finally, never, age, challenge",402.99
+716,220,House,Private room,Willieshire,Norway,5,2,"success, rich, although, civil, speech",505.18
+717,25,Villa,Entire place,West Carlos,Philippines,1,2,"them, know, any, treat, property",528.19
+718,225,Studio,Shared room,West Benjamin,Iraq,4,3,"word, together, agency, worry, learn",683.3
+719,244,House,Private room,East Larry,Tonga,5,2,"particular, religious, seek, hard, century",703.91
+720,17,House,Shared room,Davidborough,Palau,1,3,"center, skill, maybe, station, tell",193.77
+721,93,Studio,Entire place,Olsonberg,Georgia,2,2,"serve, real, bit, idea, good",439.26
+722,5,House,Private room,Adamsfort,Portugal,1,2,"apply, language, behind, same, total",711.8
+723,136,Apartment,Shared room,Lake Dawn,Suriname,1,2,"your, million, garden, memory, world",584.52
+724,43,House,Shared room,North Joshuahaven,Central African Republic,3,1,"note, door, cause, score, such",815.47
+725,98,Apartment,Shared room,Heathermouth,Botswana,3,2,"once, drug, compare, clearly, yes",704.17
+726,204,Apartment,Private room,Owensbury,Tokelau,5,1,"send, need, animal, size, history",839.31
+727,124,Villa,Private room,Jillianmouth,United Kingdom,2,1,"current, huge, plant, dark, turn",476.23
+728,188,Villa,Entire place,Lloydburgh,Panama,3,3,"charge, whatever, agreement, hotel, head",788.85
+729,203,Villa,Shared room,North Brendashire,Morocco,4,2,"hard, thousand, past, into, good",231.93
+730,128,Studio,Shared room,New Andrewton,Myanmar,4,2,"accept, cold, officer, box, pull",250.23
+731,35,Villa,Entire place,West Kimberly,Malta,1,2,"ago, point, blue, wall, executive",841.31
+732,123,Villa,Entire place,Lake Susan,Isle of Man,5,2,"door, involve, be, process, himself",734.47
+733,199,House,Entire place,West Christine,Samoa,3,2,"ok, source, budget, family, forward",868.23
+734,114,House,Entire place,Lopezburgh,United States of America,5,3,"morning, station, house, challenge, same",945.64
+735,239,Apartment,Entire place,Aliburgh,Turkmenistan,2,3,"worker, certain, in, also, although",335.51
+736,222,House,Entire place,Garrettmouth,Central African Republic,4,3,"thing, lose, difference, us, can",544.87
+737,16,Villa,Shared room,Erinburgh,Dominica,3,2,"cup, determine, data, growth, member",609.11
+738,30,Villa,Shared room,Port Shelby,Korea,1,1,"speech, enough, rate, couple, project",149.85
+739,81,House,Entire place,Yangburgh,Nepal,2,2,"she, individual, staff, response, beautiful",357.54
+740,100,Villa,Private room,New Laurieton,New Caledonia,3,1,"nice, care, near, cell, lose",419.26
+741,185,Apartment,Private room,South Sabrina,Timor-Leste,2,2,"dream, paper, everybody, yard, hope",551.07
+742,222,House,Entire place,Smithside,Suriname,4,2,"base, career, beat, knowledge, young",411.21
+743,31,House,Shared room,Lauraview,Uzbekistan,1,1,"others, whose, hair, seat, environment",518.93
+744,126,Villa,Entire place,Davidton,Botswana,4,3,"site, thought, its, then, little",248.12
+745,197,Apartment,Shared room,East Adrianland,Congo,5,3,"arrive, until, race, how, enter",251.95
+746,227,House,Private room,East Annette,Dominica,1,1,"house, collection, environmental, appear, stock",771.6
+747,17,Studio,Private room,Carlamouth,Reunion,1,1,"itself, seven, quickly, without, special",271.32
+748,29,Villa,Entire place,New Daisyport,Jordan,3,3,"cut, media, surface, good, model",868.26
+749,173,House,Private room,Harrisshire,Japan,3,3,"scientist, seek, natural, law, leg",597.15
+750,250,Apartment,Entire place,Lake Stephen,Kazakhstan,4,1,"according, agree, activity, home, argue",819.8
+751,68,Villa,Private room,Dorothytown,Lebanon,1,3,"computer, authority, garden, method, big",222.43
+752,298,Apartment,Entire place,New Erik,France,4,1,"involve, property, different, coach, east",805.6
+753,195,Villa,Shared room,New Danielle,Lebanon,3,2,"purpose, down, whole, because, responsibility",578.89
+754,49,House,Entire place,South Roger,British Virgin Islands,3,1,"executive, green, draw, perform, term",280.84
+755,191,Apartment,Shared room,Rachelbury,Samoa,5,3,"cold, option, pay, responsibility, room",498.16
+756,222,Apartment,Entire place,North Christian,Antarctica (the territory South of 60 deg S),3,1,"spring, move, peace, though, let",649.59
+757,50,Apartment,Entire place,Port Bryan,Belize,5,1,"fine, team, girl, dark, floor",265.97
+758,251,Villa,Private room,Port Bobby,Hong Kong,5,2,"into, large, Mr, condition, price",709.63
+759,31,House,Entire place,West Stanleyshire,Lithuania,2,1,"short, series, try, road, third",182.84
+760,264,Villa,Shared room,South Devin,Germany,1,3,"according, magazine, sometimes, try, study",908.75
+761,283,Apartment,Private room,Mariaside,Comoros,1,3,"dog, star, environment, our, capital",787.27
+762,54,Villa,Entire place,North Ashley,Faroe Islands,4,2,"each, property, series, board, sound",210.98
+763,242,House,Entire place,Jessicafort,Tuvalu,5,3,"prove, without, fear, find, hand",252.25
+764,262,Villa,Private room,Joshuabury,Finland,2,3,"probably, moment, fear, address, relationship",317.97
+765,244,Studio,Private room,South Markborough,Uganda,5,3,"fire, work, spend, her, until",102.79
+766,190,Studio,Entire place,Jonathonmouth,French Guiana,1,2,"red, child, agency, leave, admit",134.77
+767,1,Apartment,Entire place,South Briannaborough,Mali,3,3,"me, walk, approach, enough, class",826.48
+768,213,House,Entire place,Patrickburgh,Pakistan,3,3,"rate, west, number, listen, television",667.71
+769,13,Apartment,Private room,East Nancystad,Austria,5,1,"science, wait, either, keep, address",119.26
+770,18,House,Shared room,Port Fernando,Dominican Republic,3,1,"billion, my, customer, daughter, professor",907.45
+771,132,Studio,Private room,Jimenezburgh,Malta,3,2,"assume, right, should, miss, Democrat",766.46
+772,191,Studio,Private room,West Eric,Sweden,3,3,"culture, plan, wall, enter, plant",509.87
+773,244,Apartment,Shared room,West Dawn,French Polynesia,4,1,"lead, tax, argue, capital, theory",363.17
+774,71,Apartment,Shared room,Ariaston,South Georgia and the South Sandwich Islands,1,2,"return, baby, game, hour, often",422.14
+775,194,Apartment,Entire place,Lake Tylertown,Cayman Islands,5,1,"boy, away, same, remain, experience",643.21
+776,129,Apartment,Shared room,Christinaburgh,Angola,4,2,"blood, day, these, detail, skill",926.18
+777,158,Studio,Shared room,Hillfurt,Sudan,3,2,"newspaper, cover, station, when, they",551.44
+778,138,Studio,Entire place,Jonathonhaven,Serbia,3,1,"finish, thank, conference, hit, firm",249.51
+779,71,Studio,Shared room,Livingstonberg,Thailand,4,3,"similar, plan, and, money, soon",611.54
+780,106,House,Shared room,Marshtown,Nigeria,3,2,"view, mention, tree, be, TV",140.25
+781,26,Villa,Private room,Lake Justin,Antarctica (the territory South of 60 deg S),1,3,"perform, upon, thought, play, day",612.73
+782,255,Apartment,Shared room,Carlastad,Guinea-Bissau,1,1,"over, term, event, officer, behind",588.28
+783,281,Apartment,Shared room,Loweview,Botswana,2,1,"establish, share, water, sister, write",993.6
+784,248,House,Private room,Lowemouth,Kiribati,2,2,"a, five, deep, present, which",591.03
+785,9,Villa,Private room,South Christie,Maldives,5,1,"national, decide, garden, recently, kind",362.34
+786,163,Studio,Entire place,Lake Megan,Mayotte,1,1,"after, major, inside, decision, these",265.49
+787,21,House,Shared room,Roberttown,Timor-Leste,2,3,"shoulder, everything, article, paper, smile",654.41
+788,104,Apartment,Shared room,Lewismouth,Anguilla,3,1,"authority, appear, large, final, create",871.11
+789,184,Apartment,Entire place,South Stephen,Bolivia,2,2,"difficult, culture, charge, whether, become",739.27
+790,222,Villa,Shared room,East Steve,Egypt,2,2,"environment, car, stage, shoulder, minute",594.57
+791,198,Studio,Private room,Caldwellborough,Vietnam,4,3,"director, election, feeling, edge, rise",276.96
+792,114,Studio,Shared room,Lake Ashleyville,Indonesia,3,1,"seem, push, civil, have, service",471.19
+793,221,Villa,Private room,East Patrickville,Bosnia and Herzegovina,1,3,"dream, life, run, whom, day",960.41
+794,13,Studio,Private room,Johnsonmouth,Romania,5,3,"service, consumer, likely, decade, employee",359.94
+795,187,House,Entire place,Simonburgh,Lesotho,1,1,"argue, record, suggest, reality, western",679.19
+796,98,Villa,Shared room,South Jameschester,Svalbard & Jan Mayen Islands,3,1,"check, always, build, generation, several",329.93
+797,299,House,Private room,Port Patricia,Vietnam,1,2,"between, wear, quickly, sport, drop",152.66
+798,280,Villa,Shared room,Williamborough,Montserrat,1,2,"cup, home, defense, film, throw",677.24
+799,43,Studio,Private room,West Gregorychester,Rwanda,5,2,"whom, last, effect, deep, suddenly",50.46
+800,224,House,Entire place,West Gabriellaville,New Zealand,4,3,"expect, choose, bad, color, why",911.62
+801,244,Studio,Entire place,Davidton,Paraguay,1,2,"bring, environment, have, space, peace",631.47
+802,168,House,Entire place,Lake Randyhaven,Sao Tome and Principe,5,3,"purpose, must, likely, best, food",597.2
+803,9,Villa,Shared room,Fieldshaven,French Southern Territories,4,1,"anything, last, prevent, measure, those",964.55
+804,246,Apartment,Entire place,South Denise,Latvia,5,3,"training, nothing, meeting, collection, long",952.51
+805,298,Studio,Shared room,Millerchester,Uganda,2,1,"worry, can, nothing, garden, paper",878.2
+806,60,Villa,Private room,Turnerborough,Luxembourg,5,1,"describe, general, pretty, voice, back",990.07
+807,98,House,Shared room,Robertmouth,Greenland,2,2,"company, plan, drug, term, also",164.33
+808,242,Studio,Entire place,Hoffmanchester,Bahrain,5,3,"choice, family, and, American, board",502.53
+809,241,Studio,Entire place,Jamesborough,Liberia,3,2,"manager, eat, high, point, year",425.25
+810,43,Studio,Private room,Riosburgh,Yemen,5,1,"government, require, follow, year, clear",336.09
+811,70,House,Private room,Shawnbury,Iceland,4,2,"center, contain, wrong, might, still",810.34
+812,296,Villa,Entire place,Patrickmouth,Gabon,4,1,"center, month, itself, reason, another",572.19
+813,278,Apartment,Entire place,North Carlland,Togo,4,1,"traditional, movement, start, city, billion",412.18
+814,64,Villa,Shared room,Lake Courtneyborough,New Zealand,4,1,"ago, fill, recent, exist, show",614.42
+815,162,Villa,Entire place,Lake Sarah,China,4,2,"attack, require, training, bag, ground",763.59
+816,225,Villa,Entire place,Michellemouth,Central African Republic,1,3,"along, purpose, center, help, many",291.37
+817,231,House,Private room,Geraldport,Sweden,4,1,"choice, husband, cell, spring, election",541.78
+818,130,Villa,Entire place,Danielport,Myanmar,2,2,"yourself, food, large, whatever, name",635.09
+819,49,Studio,Entire place,Sarahberg,Guadeloupe,3,3,"wall, difficult, arm, few, dream",529.41
+820,229,House,Shared room,North Hannah,Saint Vincent and the Grenadines,5,1,"make, enjoy, center, change, word",798.33
+821,120,Studio,Shared room,Willisview,Belarus,3,3,"realize, stuff, billion, the, adult",257.65
+822,289,House,Shared room,Cynthiaview,Kuwait,2,1,"before, rest, cup, nice, we",534.31
+823,192,House,Shared room,Michaelview,Puerto Rico,4,2,"central, director, beat, oil, sign",584.24
+824,86,Apartment,Entire place,New Melissa,Norfolk Island,4,3,"check, lay, want, simply, ground",526.49
+825,162,Studio,Private room,Campbellmouth,Oman,3,2,"these, during, picture, can, wonder",310.14
+826,124,Studio,Shared room,Port Henry,Pakistan,4,1,"thought, couple, road, rather, number",744.53
+827,8,Studio,Private room,Tinaville,Algeria,3,2,"consider, herself, computer, hotel, perhaps",275.33
+828,227,Villa,Entire place,Kristinaton,Iraq,4,3,"smile, could, far, last, use",519.33
+829,5,Apartment,Entire place,Mannview,Austria,4,1,"head, top, answer, in, trip",636.46
+830,5,House,Entire place,North Shannonshire,Bhutan,5,3,"upon, wrong, computer, same, wife",830.17
+831,43,Apartment,Private room,Marisashire,Thailand,2,3,"the, design, social, interesting, enjoy",830.02
+832,233,House,Private room,Ronaldhaven,Costa Rica,3,3,"trouble, however, free, scientist, wonder",409.88
+833,4,Apartment,Entire place,South Randy,Korea,3,3,"above, surface, military, interesting, buy",179.55
+834,70,Villa,Shared room,Castilloport,Liechtenstein,5,1,"carry, wait, guy, fish, across",779.86
+835,282,House,Entire place,South Benjamin,Haiti,2,1,"pick, without, director, about, physical",903.24
+836,237,House,Entire place,North Karenstad,Zambia,5,1,"side, win, lot, film, explain",987.15
+837,56,Villa,Shared room,Romeroberg,Northern Mariana Islands,3,2,"best, air, production, dream, reflect",484.92
+838,83,Apartment,Private room,Leeberg,Gambia,1,1,"item, read, southern, employee, exactly",575.38
+839,250,Villa,Private room,Joshuafort,British Indian Ocean Territory (Chagos Archipelago),3,3,"necessary, sound, threat, many, glass",883.37
+840,138,House,Private room,Williamfurt,Turkmenistan,4,1,"who, decade, be, treat, employee",881.81
+841,200,Studio,Entire place,Thorntonfurt,Bosnia and Herzegovina,5,2,"out, know, issue, international, history",752.71
+842,2,Villa,Private room,West Brucebury,Thailand,3,2,"everybody, agreement, natural, financial, really",329.11
+843,31,Apartment,Private room,West Donald,Ghana,1,3,"no, ball, gun, air, after",514.05
+844,290,House,Private room,Nicholsstad,United Arab Emirates,2,3,"figure, statement, different, structure, spend",671.98
+845,8,Villa,Shared room,Lake Jonathanfort,Iceland,4,2,"collection, company, all, center, itself",455.8
+846,183,Villa,Entire place,South Matthew,France,2,2,"history, process, item, pay, quality",493.8
+847,114,Apartment,Entire place,North Lisa,Antarctica (the territory South of 60 deg S),3,1,"early, hand, step, economy, strong",480.07
+848,56,Apartment,Shared room,Xavierland,Switzerland,1,2,"tree, become, management, job, half",364.86
+849,254,Studio,Private room,Thomaschester,Latvia,3,3,"front, control, history, especially, once",948.19
+850,76,Villa,Private room,Penamouth,Egypt,1,1,"forward, her, nor, hand, office",61.89
+851,233,Villa,Entire place,East Lindaton,Comoros,1,2,"other, activity, final, age, walk",313.74
+852,296,House,Private room,Nicoleview,Dominica,3,2,"conference, outside, American, music, development",711.79
+853,196,Studio,Private room,Pattersonstad,Kenya,3,2,"run, start, contain, between, season",275.6
+854,80,Villa,Private room,Port Brenda,Eritrea,1,3,"someone, study, simply, send, movement",129.81
+855,15,Villa,Private room,Elizabethville,Suriname,3,3,"network, study, ask, around, discussion",792.77
+856,235,Studio,Private room,Murrayview,Bermuda,5,2,"break, measure, green, almost, matter",669.15
+857,235,Studio,Entire place,South Michelle,Angola,3,3,"scene, discover, everyone, care, keep",271.17
+858,70,Apartment,Shared room,Brownstad,Croatia,3,2,"subject, full, position, threat, manager",613.12
+859,115,Villa,Entire place,West Catherine,Yemen,3,2,"others, size, sell, worker, seat",936.04
+860,289,House,Entire place,South Veronicatown,Brazil,1,2,"join, newspaper, gas, again, act",777.33
+861,95,Villa,Entire place,West Matthew,Honduras,5,1,"computer, natural, various, trouble, evidence",773.85
+862,34,Villa,Entire place,Bryanborough,Finland,1,2,"scene, actually, campaign, week, idea",477.52
+863,65,Apartment,Entire place,Smithport,Oman,1,3,"fight, space, much, project, new",278.53
+864,122,Apartment,Private room,Port Zachary,Guam,4,2,"road, yes, believe, fast, guy",992.79
+865,260,House,Shared room,North Matthewview,New Zealand,5,2,"society, coach, sell, PM, study",84.31
+866,160,House,Entire place,Murphytown,Aruba,5,1,"field, program, song, player, wonder",262.03
+867,158,Studio,Entire place,West Christopher,Chad,5,1,"away, argue, southern, arrive, last",987.3
+868,25,Studio,Entire place,Bernardstad,Cocos (Keeling) Islands,2,2,"test, total, study, sister, only",466.04
+869,244,Villa,Entire place,Danielview,Micronesia,5,2,"near, simple, draw, explain, down",274.48
+870,247,Apartment,Shared room,Reginaldberg,Holy See (Vatican City State),5,3,"past, enjoy, particularly, three, artist",365.91
+871,164,Villa,Shared room,Lindafort,Puerto Rico,5,2,"order, father, figure, plan, environment",818.92
+872,291,Studio,Shared room,Thomasside,Ireland,2,1,"imagine, south, believe, music, peace",722.53
+873,40,Villa,Shared room,Lake Michaelton,Saint Vincent and the Grenadines,5,3,"attention, test, environment, very, cultural",779.16
+874,156,House,Private room,New Luisstad,Mongolia,3,2,"both, open, agency, discover, strategy",963.94
+875,81,Studio,Entire place,East Benjaminmouth,Kenya,1,1,"cover, course, social, condition, lawyer",627.51
+876,69,House,Shared room,North Andrew,Mexico,5,2,"civil, couple, interesting, now, professor",783.78
+877,273,House,Entire place,North Susanburgh,Philippines,3,3,"mind, chair, full, budget, less",343.95
+878,103,House,Private room,Lake Vanessaview,Nigeria,3,3,"try, thank, activity, after, different",654.07
+879,132,Studio,Entire place,South Claudia,Ghana,1,2,"middle, memory, market, take, happy",604.87
+880,195,Studio,Private room,Justinton,Falkland Islands (Malvinas),3,2,"on, watch, country, hold, able",203.67
+881,276,Apartment,Shared room,East Erica,Australia,3,2,"room, current, example, focus, debate",536.15
+882,298,Apartment,Shared room,East Stevenport,Bosnia and Herzegovina,1,2,"bring, thank, yard, raise, much",133.3
+883,137,House,Entire place,North Anthonyborough,Sierra Leone,5,1,"collection, senior, cup, check, spend",384.91
+884,247,House,Shared room,Hamiltonberg,Nauru,5,2,"heavy, commercial, through, run, peace",923.42
+885,263,Apartment,Shared room,Catherineside,Moldova,4,2,"successful, develop, meeting, last, test",836.21
+886,116,Apartment,Entire place,New Luismouth,Turkey,1,1,"condition, run, difference, show, heavy",362.66
+887,6,Apartment,Entire place,Curtisberg,Egypt,2,3,"education, hear, quality, parent, manager",187.31
+888,196,Apartment,Private room,Hoffmanfort,Chile,3,1,"store, always, book, drug, here",664.5
+889,26,House,Private room,Kathrynview,Malta,4,3,"order, point, reflect, office, college",568.39
+890,179,Villa,Private room,Brewerside,Gabon,1,3,"before, tree, off, kitchen, day",62.35
+891,182,Villa,Shared room,Marialand,Heard Island and McDonald Islands,1,3,"commercial, grow, itself, town, discuss",498.79
+892,253,Studio,Entire place,Walkerton,Saint Lucia,5,1,"themselves, house, easy, identify, common",869.41
+893,30,Studio,Shared room,East Courtney,Malaysia,1,3,"likely, speak, claim, believe, energy",324.72
+894,4,Villa,Shared room,Lake Robert,Estonia,5,1,"one, project, year, adult, from",107.7
+895,12,Villa,Shared room,Port Josephland,Jamaica,1,2,"eight, suffer, reason, particular, security",336.09
+896,18,Apartment,Private room,Lake Amberstad,Turkey,3,1,"customer, hour, wall, form, that",267.41
+897,11,Villa,Shared room,South Bradley,Bolivia,2,2,"item, themselves, and, may, pretty",837.5
+898,215,House,Private room,West Matthew,Holy See (Vatican City State),4,1,"large, enter, during, part, look",314.74
+899,46,Studio,Private room,East Sherri,Bahrain,4,2,"would, majority, firm, strategy, air",680.42
+900,189,Studio,Shared room,Port Nicholas,Bouvet Island (Bouvetoya),5,2,"eat, factor, suffer, discuss, newspaper",509.0
+901,256,House,Shared room,South Paula,Bhutan,2,2,"stock, raise, nothing, account, Democrat",618.73
+902,209,Villa,Shared room,Ryanmouth,Peru,5,2,"age, through, sport, easy, window",429.73
+903,214,House,Private room,North Amanda,Afghanistan,3,1,"somebody, ready, might, world, evidence",893.69
+904,121,House,Entire place,Lake Sara,Syrian Arab Republic,5,2,"from, boy, care, serious, movement",658.55
+905,75,Villa,Entire place,South Michael,San Marino,4,2,"billion, should, mention, create, adult",173.78
+906,208,Villa,Private room,Angelahaven,Norway,2,2,"wrong, family, candidate, these, through",472.08
+907,84,Studio,Private room,West Jacqueline,Belgium,4,3,"without, a, family, today, face",268.92
+908,238,Apartment,Shared room,Aguilarfort,Korea,4,2,"early, international, magazine, knowledge, ball",807.85
+909,160,Villa,Private room,Ortizfurt,Spain,2,2,"realize, final, office, sort, amount",217.81
+910,8,House,Shared room,West Aaronmouth,United Kingdom,2,3,"practice, natural, tend, last, job",836.14
+911,227,Apartment,Private room,Albertfurt,Estonia,1,1,"consumer, wide, apply, whom, carry",547.21
+912,119,Villa,Shared room,Paulville,Russian Federation,5,1,"everything, sure, specific, mother, ago",417.35
+913,248,Studio,Shared room,Lake Julie,United Kingdom,4,2,"discussion, start, decide, inside, network",334.69
+914,199,Villa,Shared room,Lake Sheliamouth,United States Minor Outlying Islands,2,1,"should, language, surface, animal, true",731.51
+915,58,House,Private room,Lake Andrew,Jersey,1,3,"strategy, far, laugh, travel, truth",146.36
+916,60,Villa,Private room,Jennifertown,Argentina,4,2,"hair, Mrs, wear, product, pattern",640.44
+917,17,Studio,Private room,Lake Anna,Antarctica (the territory South of 60 deg S),3,1,"hot, citizen, follow, item, enjoy",324.06
+918,17,Apartment,Private room,Daniellehaven,Isle of Man,1,2,"what, against, condition, piece, short",104.31
+919,199,Villa,Entire place,Jordanchester,Togo,4,2,"rock, him, staff, stay, cause",677.12
+920,82,House,Entire place,Fischerberg,Honduras,5,2,"provide, around, physical, window, main",665.2
+921,163,Apartment,Private room,Bryanland,Eritrea,4,2,"certainly, action, certainly, conference, agree",736.86
+922,256,House,Shared room,Thompsonview,Thailand,5,2,"second, him, artist, camera, draw",73.71
+923,81,Apartment,Shared room,Frederickshire,Colombia,4,2,"real, fact, off, fear, none",163.07
+924,17,Villa,Private room,East Kelly,Cameroon,5,3,"tax, more, end, dinner, wife",275.17
+925,134,Studio,Entire place,Michellehaven,Guinea,3,2,"worker, notice, key, fly, close",292.68
+926,288,Apartment,Private room,New Tylerport,Bulgaria,5,1,"sell, continue, morning, modern, him",184.31
+927,71,House,Private room,Williamfort,Nigeria,3,1,"professor, add, own, meet, up",213.56
+928,169,Apartment,Private room,East Brandonburgh,Nauru,1,1,"notice, public, campaign, institution, exactly",666.21
+929,58,Apartment,Private room,West Sarah,Namibia,3,1,"word, perform, then, draw, TV",608.05
+930,48,Studio,Entire place,Lake Lauraville,Saint Pierre and Miquelon,3,1,"democratic, travel, central, establish, fast",147.75
+931,84,House,Private room,Ericland,Kenya,5,3,"least, keep, down, peace, six",674.42
+932,202,House,Private room,New Olivialand,Somalia,3,3,"fly, good, page, own, quality",901.04
+933,268,Studio,Shared room,Baileyshire,Bouvet Island (Bouvetoya),5,2,"popular, pay, head, half, simple",835.08
+934,264,Studio,Entire place,Hernandezhaven,Aruba,4,3,"particularly, line, about, sure, imagine",304.34
+935,61,Studio,Entire place,New Dillon,Lesotho,2,1,"store, difference, wife, arrive, know",292.13
+936,195,Villa,Shared room,South Richard,Guinea,2,1,"stock, modern, sense, other, avoid",633.18
+937,123,Apartment,Entire place,North Codybury,Nigeria,3,3,"medical, support, six, military, authority",392.84
+938,63,Apartment,Private room,New Melissa,Japan,1,2,"office, enough, shoulder, current, eat",524.14
+939,127,House,Entire place,South Jeremyport,Azerbaijan,5,3,"road, machine, use, leader, indeed",272.72
+940,153,Apartment,Private room,Teresaland,Guinea-Bissau,2,3,"truth, do, early, present, new",205.95
+941,53,Apartment,Private room,Donland,French Polynesia,5,3,"lead, itself, both, blue, itself",951.66
+942,12,Studio,Entire place,Derrickshire,Turkmenistan,5,2,"make, Congress, our, degree, middle",737.57
+943,285,House,Entire place,Port Jasonshire,United Arab Emirates,4,3,"accept, catch, bar, city, also",91.74
+944,60,Studio,Entire place,Lake Michaelfort,Comoros,5,2,"game, vote, thought, walk, public",177.01
+945,94,Apartment,Private room,Rebeccachester,Azerbaijan,4,2,"same, likely, leg, yourself, thank",160.93
+946,51,Studio,Shared room,West Paulhaven,Kiribati,5,3,"catch, outside, member, me, minute",201.79
+947,138,Villa,Entire place,Stephenschester,Estonia,3,2,"only, beat, push, claim, effect",192.51
+948,9,Apartment,Private room,Romeroshire,Turks and Caicos Islands,4,2,"kid, line, crime, economy, material",722.72
+949,280,Apartment,Shared room,South Jamie,Mongolia,2,1,"tonight, mouth, sell, second, third",740.91
+950,191,Apartment,Shared room,Lake Emilyport,Israel,5,1,"responsibility, begin, central, risk, land",330.5
+951,159,House,Private room,Hillborough,Macao,4,2,"far, this, most, blue, peace",373.79
+952,67,Apartment,Shared room,East Jamieberg,Martinique,2,2,"power, serious, include, outside, likely",914.83
+953,171,Studio,Private room,Chavezberg,Aruba,4,2,"college, project, pass, see, move",390.37
+954,36,Studio,Shared room,New Kristinehaven,Greenland,4,2,"decision, run, military, room, agent",710.59
+955,245,Villa,Shared room,West Victoria,Seychelles,2,3,"thousand, low, what, common, leave",645.3
+956,146,Apartment,Entire place,Port Melissa,Hong Kong,4,2,"section, between, industry, reduce, involve",264.28
+957,147,Villa,Shared room,West Charles,Bahrain,5,1,"member, trip, machine, under, hard",706.21
+958,299,Studio,Entire place,Chandlermouth,Haiti,3,1,"street, trouble, across, toward, into",466.09
+959,229,Studio,Entire place,North Lawrenceside,United States Virgin Islands,3,1,"money, consumer, without, discussion, body",910.84
+960,150,Studio,Private room,North Jacquelineberg,Egypt,5,2,"share, product, painting, name, mention",867.14
+961,198,Studio,Entire place,Mooremouth,Guinea-Bissau,3,1,"TV, well, ability, room, for",867.24
+962,292,House,Entire place,Brentton,Pakistan,1,2,"room, interview, more, third, power",408.78
+963,294,Studio,Private room,Port Michaelburgh,Solomon Islands,2,1,"decide, full, staff, month, who",841.91
+964,292,Apartment,Private room,Tiffanyberg,Bouvet Island (Bouvetoya),2,2,"go, rule, final, decision, both",803.55
+965,291,Studio,Entire place,North Mary,Bouvet Island (Bouvetoya),5,2,"very, heavy, indeed, could, need",871.75
+966,277,House,Entire place,South Timothy,Syrian Arab Republic,3,2,"morning, often, whether, evening, us",857.54
+967,183,Studio,Entire place,West Rebecca,Nauru,3,2,"sign, see, sing, pull, order",118.26
+968,57,Apartment,Private room,Port Ashleyhaven,Bouvet Island (Bouvetoya),1,1,"continue, force, anyone, above, color",827.52
+969,129,House,Shared room,Lake Markville,Uzbekistan,3,3,"face, despite, than, be, that",787.01
+970,137,Studio,Entire place,New Katherinetown,Belize,4,1,"style, music, drug, strong, serious",138.26
+971,62,Apartment,Shared room,South Nicole,Belize,1,2,"against, walk, easy, new, kind",957.08
+972,122,Villa,Entire place,East Gabrielle,Cocos (Keeling) Islands,4,3,"though, another, talk, couple, project",127.38
+973,51,Villa,Shared room,Boydhaven,Zimbabwe,3,3,"may, light, produce, on, west",274.82
+974,116,Villa,Private room,New Caroline,Papua New Guinea,1,3,"ask, argue, box, audience, local",108.15
+975,217,Apartment,Shared room,East Alishafort,Belgium,1,1,"agreement, might, kid, student, fish",510.08
+976,45,Villa,Entire place,Huntberg,British Indian Ocean Territory (Chagos Archipelago),1,2,"picture, market, require, education, base",661.92
+977,57,Studio,Entire place,West Carrie,Guinea,4,2,"scene, drop, artist, bank, only",644.39
+978,49,House,Shared room,Wilsonshire,Colombia,3,1,"not, else, goal, police, campaign",378.22
+979,171,Apartment,Entire place,New Rachaelborough,Japan,4,1,"turn, goal, paper, well, page",880.09
+980,96,House,Shared room,Port Anna,Norway,2,1,"produce, teach, community, pretty, like",177.95
+981,255,Studio,Private room,Elizabethburgh,Romania,2,1,"mother, perform, class, note, protect",377.87
+982,147,Studio,Private room,New Toddmouth,Tuvalu,3,1,"add, late, bag, peace, eight",972.77
+983,82,Apartment,Private room,Jacobport,Malaysia,4,1,"both, century, test, author, new",175.4
+984,166,Villa,Private room,Strongport,Holy See (Vatican City State),5,2,"already, president, single, north, reason",921.32
+985,208,Studio,Entire place,Stricklandberg,Kazakhstan,4,2,"trial, strong, account, year, nice",925.89
+986,296,Villa,Entire place,Watsonstad,Congo,1,3,"staff, imagine, walk, minute, nothing",565.06
+987,11,Apartment,Entire place,Dixonberg,Marshall Islands,4,1,"beat, fear, official, friend, form",315.99
+988,274,Studio,Private room,West Wesleyview,Slovakia (Slovak Republic),1,3,"character, information, project, history, difference",217.83
+989,181,Villa,Private room,Rodriguezbury,Malaysia,2,2,"very, address, fear, end, born",442.8
+990,226,Studio,Entire place,Clarkberg,Bhutan,3,1,"research, else, simply, class, some",989.78
+991,276,Apartment,Private room,South Michael,Burundi,4,3,"not, within, personal, crime, morning",745.27
+992,74,Villa,Private room,North Paul,Lesotho,4,3,"thousand, front, structure, relate, create",759.74
+993,1,House,Shared room,Feliciabury,New Zealand,2,1,"their, but, senior, work, maintain",154.77
+994,9,Villa,Private room,Fullerburgh,Czech Republic,5,2,"why, behavior, project, force, race",789.83
+995,71,Studio,Private room,Port Stephanie,Korea,2,3,"indeed, likely, foreign, suddenly, instead",207.63
+996,49,Apartment,Private room,New Davidmouth,Sri Lanka,3,3,"operation, hair, last, life, individual",511.5
+997,149,House,Entire place,Lake Thomasberg,Canada,1,2,"yet, site, available, small, heart",931.02
+998,135,Villa,Private room,West Haleyland,Comoros,4,3,"leave, find, foreign, explain, process",674.86
+999,246,Studio,Private room,South Cassandraland,Mongolia,4,2,"sit, common, better, live, trade",721.26
+1000,228,Apartment,Shared room,New Jennifer,Saint Barthelemy,4,3,"word, hour, anything, lawyer, up",459.01
+1001,264,Apartment,Shared room,Youngmouth,Luxembourg,4,3,"between, why, chair, affect, book",196.86
+1002,12,House,Shared room,South Dorothytown,Central African Republic,4,1,"that, official, issue, war, million",982.8
+1003,258,House,Entire place,Martinezhaven,Pitcairn Islands,2,2,"state, usually, law, phone, history",682.16
+1004,128,House,Shared room,New Jasonland,Saint Pierre and Miquelon,3,2,"boy, kitchen, speak, team, another",247.01
+1005,24,Apartment,Private room,Harveyside,Myanmar,3,2,"usually, face, any, blue, level",513.88
+1006,180,Studio,Shared room,West Angela,Iceland,1,2,"agency, later, and, experience, material",695.58
+1007,244,Villa,Entire place,North Kathystad,Maldives,3,1,"air, individual, stay, range, nearly",593.43
+1008,54,Villa,Shared room,Lake Lisaton,Guernsey,1,2,"get, drop, plan, watch, if",253.65
+1009,129,Apartment,Private room,Robinsonburgh,Argentina,2,1,"hard, north, material, local, staff",147.24
+1010,254,Studio,Shared room,Port Jennifershire,Yemen,4,3,"article, article, necessary, start, decade",829.12
+1011,2,Apartment,Private room,Susanton,Denmark,4,3,"sound, entire, adult, add, these",798.84
+1012,174,Apartment,Entire place,Lake April,Somalia,5,2,"make, clear, again, event, great",567.57
+1013,12,Studio,Entire place,Edwardsbury,Jersey,3,1,"trade, gun, either, realize, fall",465.21
+1014,164,House,Shared room,Nguyenville,India,2,1,"life, there, walk, let, something",620.32
+1015,208,Villa,Private room,Julietown,Tonga,2,1,"control, someone, heavy, individual, thousand",69.37
+1016,254,Apartment,Private room,Bairdville,British Virgin Islands,1,3,"director, against, front, fast, drug",805.39
+1017,29,Villa,Shared room,Port Ericaborough,Argentina,2,3,"half, truth, investment, gas, culture",174.1
+1018,53,Villa,Private room,Jordanborough,Zimbabwe,2,2,"condition, next, seven, consumer, interest",350.18
+1019,218,Apartment,Shared room,Davisberg,Albania,2,3,"nor, process, Congress, range, ahead",599.3
+1020,238,Apartment,Shared room,East Sandra,Canada,3,3,"include, military, red, you, would",72.32
+1021,198,Apartment,Private room,Thomasmouth,Marshall Islands,5,1,"occur, tell, power, manage, small",618.52
+1022,34,House,Private room,Patelmouth,Cook Islands,4,1,"during, company, continue, win, reach",530.51
+1023,182,Villa,Private room,Sarahberg,Luxembourg,1,1,"or, wear, pattern, second, feeling",166.17
+1024,236,Villa,Private room,Alexfurt,Guadeloupe,3,1,"affect, important, soon, development, only",519.62
+1025,228,Villa,Shared room,Port Cynthiatown,Saint Pierre and Miquelon,2,2,"try, take, almost, ask, election",406.79
+1026,29,Villa,Entire place,New Willie,Central African Republic,2,3,"bar, key, personal, thus, least",415.7
+1027,59,Apartment,Private room,Port Brendafurt,Tajikistan,3,3,"reduce, response, level, treat, game",596.89
+1028,54,Studio,Shared room,Eduardoshire,Angola,3,1,"along, from, situation, stand, stand",566.7
+1029,170,Studio,Private room,Andersonshire,Ecuador,1,2,"station, simply, lawyer, standard, have",627.77
+1030,39,Apartment,Entire place,North Shawnton,Uganda,4,1,"century, explain, onto, draw, low",422.38
+1031,128,Villa,Private room,New Patriciachester,Taiwan,3,2,"challenge, special, data, finish, town",394.54
+1032,199,House,Private room,South Andrewton,Liechtenstein,4,1,"federal, network, she, dog, list",572.2
+1033,86,Studio,Entire place,Woodwardberg,Guadeloupe,1,2,"another, gun, bag, subject, cost",823.86
+1034,293,Apartment,Private room,Lake Jennifer,Luxembourg,3,3,"cause, explain, sell, exist, check",412.62
+1035,281,Studio,Entire place,Weavermouth,Nigeria,3,3,"matter, ball, coach, quality, amount",651.42
+1036,285,Apartment,Private room,Port Edward,Argentina,3,1,"white, since, shake, just, many",942.07
+1037,163,Villa,Private room,Port Cristian,Algeria,4,1,"add, put, picture, return, truth",791.64
+1038,114,Apartment,Entire place,South Cassandraborough,Greenland,4,1,"eight, able, parent, type, economy",528.54
+1039,141,Studio,Shared room,East Katherine,Chile,2,3,"later, financial, room, else, exactly",492.69
+1040,63,House,Entire place,East Sarahport,Argentina,5,3,"likely, operation, lose, serve, reduce",947.16
+1041,194,Studio,Shared room,Lake Peterland,Spain,1,3,"despite, news, instead, result, article",355.26
+1042,204,House,Private room,Ericside,Switzerland,4,2,"morning, operation, generation, issue, according",465.83
+1043,170,Studio,Shared room,Morenobury,Taiwan,3,3,"next, bar, manager, leave, thing",245.48
+1044,261,House,Shared room,Morenoberg,Holy See (Vatican City State),1,3,"contain, woman, last, actually, rich",404.57
+1045,24,Apartment,Entire place,New Janetmouth,Georgia,2,1,"walk, if, voice, today, parent",800.1
+1046,54,Apartment,Private room,Davidside,Nigeria,4,3,"miss, despite, race, least, to",651.02
+1047,88,House,Private room,Ericaville,Trinidad and Tobago,4,1,"green, whom, market, avoid, education",323.17
+1048,131,Villa,Private room,Nataliestad,Cameroon,2,1,"upon, collection, especially, other, international",485.05
+1049,89,House,Shared room,Contrerasfurt,Guatemala,3,2,"point, reason, involve, fill, prepare",980.92
+1050,180,Villa,Entire place,West Brian,Nicaragua,3,1,"power, professor, think, she, area",878.18
+1051,79,House,Entire place,Alvinmouth,Oman,4,2,"eye, require, yeah, season, ability",725.47
+1052,285,Apartment,Entire place,Kingville,Norway,3,2,"interesting, trial, citizen, easy, let",164.88
+1053,56,Studio,Entire place,West Kimberlyborough,Saint Barthelemy,1,3,"future, foot, usually, if, book",461.63
+1054,13,Studio,Shared room,New Chloe,Congo,1,1,"need, model, write, scene, environment",633.9
+1055,109,Villa,Entire place,South Catherineview,Micronesia,3,2,"in, stay, scene, feeling, office",713.19
+1056,206,Apartment,Shared room,Lake Candicechester,Romania,2,1,"surface, apply, consider, sort, hit",804.97
+1057,295,Apartment,Entire place,Jeffreyborough,Lebanon,1,1,"behavior, total, recognize, significant, feeling",348.23
+1058,99,Studio,Entire place,Lake Katherine,Holy See (Vatican City State),1,3,"clear, letter, despite, sea, rule",539.78
+1059,297,Studio,Private room,Elizabethmouth,Cook Islands,1,2,"real, perform, task, news, trouble",252.27
+1060,158,House,Shared room,Brookebury,Sudan,2,3,"simply, music, quickly, explain, report",273.9
+1061,121,Studio,Entire place,Port Carol,Australia,1,3,"grow, have, possible, pattern, likely",954.18
+1062,267,Villa,Private room,Hillland,Tajikistan,4,2,"ever, full, television, live, maintain",922.62
+1063,208,Studio,Private room,Melanieton,Netherlands Antilles,2,2,"its, business, step, bad, agree",973.51
+1064,282,Apartment,Entire place,Simmonstown,Guyana,2,2,"notice, player, although, test, individual",843.75
+1065,280,Apartment,Shared room,Port Anthony,Albania,5,2,"age, position, would, the, become",482.82
+1066,5,House,Private room,South William,Belgium,3,2,"ever, ball, miss, cultural, town",536.41
+1067,37,House,Shared room,Lopezshire,Montenegro,3,1,"guess, put, seat, up, point",531.47
+1068,29,Apartment,Private room,Rebekahburgh,Senegal,1,1,"way, radio, chance, agent, way",548.07
+1069,256,House,Shared room,Nicoletown,Iraq,2,3,"sister, spring, safe, pay, student",891.57
+1070,177,House,Private room,Port Mark,Rwanda,3,1,"current, result, bag, across, floor",561.16
+1071,119,Villa,Private room,Charleshaven,Greenland,5,3,"get, page, sell, fear, think",493.58
+1072,93,Studio,Shared room,Sandersburgh,Falkland Islands (Malvinas),2,1,"see, different, identify, history, much",751.6
+1073,194,Studio,Private room,New Sandra,Tonga,3,1,"PM, throw, feeling, team, response",686.79
+1074,85,House,Private room,South Markport,Iceland,3,1,"surface, finish, wear, away, ok",212.86
+1075,269,Villa,Shared room,West Phillipshire,Armenia,4,3,"buy, represent, analysis, visit, live",780.17
+1076,20,Studio,Private room,Jamesberg,Equatorial Guinea,5,3,"military, meet, particular, theory, stay",226.3
+1077,73,House,Shared room,North Christina,Denmark,1,2,"theory, reach, case, season, fast",498.35
+1078,56,Villa,Private room,Lake Brandonmouth,United States of America,3,3,"green, threat, special, interest, rock",879.46
+1079,19,Studio,Shared room,South Jennifermouth,Botswana,1,1,"individual, page, foot, thing, send",628.33
+1080,195,Villa,Private room,Coletown,Palestinian Territory,4,1,"miss, maybe, tax, first, hope",281.99
+1081,202,Apartment,Shared room,Jenniferbury,Uruguay,1,2,"full, me, skill, family, school",960.13
+1082,225,Studio,Shared room,East Mirandaberg,Mayotte,5,2,"I, help, whatever, until, pattern",500.43
+1083,76,Studio,Shared room,South Rachel,Bulgaria,5,3,"receive, record, among, city, soon",948.45
+1084,297,House,Private room,Rodriguezchester,Bhutan,1,1,"capital, manage, central, food, history",404.08
+1085,187,Studio,Private room,Heiditon,Guam,1,2,"shake, southern, fight, stand, foot",745.6
+1086,233,House,Private room,Stevenbury,Zambia,5,3,"meet, year, animal, employee, bit",373.84
+1087,73,Studio,Private room,Katrinaberg,Moldova,5,2,"truth, Congress, each, subject, city",558.5
+1088,177,House,Entire place,Lake Joseph,Singapore,5,3,"actually, bar, action, skill, instead",108.74
+1089,183,Apartment,Shared room,North Gabrielle,Canada,4,3,"production, race, language, model, team",143.72
+1090,12,House,Private room,Davidborough,Lithuania,5,2,"method, affect, from, point, try",647.82
+1091,102,House,Shared room,West Heather,Puerto Rico,4,3,"capital, first, laugh, city, type",183.73
+1092,295,House,Entire place,New Jeffrey,Martinique,5,1,"use, take, like, listen, play",823.02
+1093,244,Apartment,Shared room,Jeffreyville,Bahamas,3,3,"police, exist, world, nothing, keep",765.61
+1094,226,House,Entire place,East David,Mexico,4,1,"interview, hard, family, best, drug",473.35
+1095,126,Villa,Private room,Lisashire,New Zealand,1,2,"economy, society, check, art, clearly",150.17
+1096,223,House,Private room,Lake Jacquelinefort,Brazil,5,3,"particular, board, law, read, tell",262.87
+1097,13,Apartment,Private room,Hoffmanshire,Kazakhstan,4,2,"true, trade, help, though, cup",731.56
+1098,88,Villa,Entire place,Scottton,India,1,1,"our, fire, evening, explain, huge",992.76
+1099,289,Studio,Entire place,East Phillipland,Kuwait,2,1,"story, want, her, source, quality",579.09
+1100,287,Villa,Shared room,South Jeremy,Bhutan,5,2,"way, time, upon, than, at",649.34
+1101,38,House,Shared room,Jamesmouth,Cuba,1,1,"decade, toward, gas, environmental, short",778.0
+1102,245,Villa,Shared room,Wongshire,Zimbabwe,4,3,"prove, investment, share, approach, grow",864.2
+1103,32,Villa,Private room,Lake Elaineview,Mauritania,2,1,"prove, charge, consumer, institution, carry",192.43
+1104,160,Villa,Private room,Port Barbara,Korea,5,1,"force, try, yourself, provide, wrong",990.24
+1105,117,Apartment,Shared room,East Bonniebury,Falkland Islands (Malvinas),1,2,"remember, my, not, increase, occur",556.6
+1106,221,House,Entire place,West Randy,Liberia,2,1,"everything, realize, my, especially, almost",220.61
+1107,17,House,Entire place,Andrewchester,Saudi Arabia,4,3,"among, opportunity, serious, check, every",90.74
+1108,9,Apartment,Entire place,New Isaiah,Switzerland,3,2,"cost, way, interest, father, far",634.4
+1109,197,Apartment,Shared room,North Tiffany,Bolivia,3,3,"performance, adult, product, plant, method",485.06
+1110,181,Apartment,Entire place,Rodriguezborough,United Kingdom,2,1,"radio, far, else, share, whole",883.02
+1111,157,Villa,Shared room,Myershaven,New Zealand,5,2,"very, every, charge, government, feeling",593.52
+1112,145,Apartment,Private room,New Felicia,Faroe Islands,2,3,"energy, time, job, field, speak",377.9
+1113,120,House,Shared room,Fisherburgh,Antarctica (the territory South of 60 deg S),3,2,"but, class, teach, compare, kid",87.1
+1114,69,Apartment,Private room,Lake William,China,4,2,"movement, end, magazine, develop, laugh",396.51
+1115,288,Apartment,Private room,South Heather,Anguilla,1,2,"sort, society, price, defense, interest",623.51
+1116,243,Villa,Shared room,Hebertport,Saint Pierre and Miquelon,1,2,"health, level, then, focus, now",834.92
+1117,285,Studio,Shared room,New Benjaminfurt,Liechtenstein,1,1,"sure, suffer, treatment, occur, common",96.44
+1118,121,House,Entire place,Kerryside,Mauritania,2,1,"Republican, indeed, health, television, study",377.61
+1119,60,Studio,Private room,Smithburgh,Kiribati,3,3,"receive, record, hard, thank, necessary",521.8
+1120,29,House,Entire place,Port Charles,Saint Vincent and the Grenadines,3,3,"again, answer, dog, list, sure",786.29
+1121,138,House,Shared room,Allenside,Uzbekistan,4,1,"why, here, manager, minute, try",687.1
+1122,92,Villa,Entire place,East Jennaport,South Africa,3,2,"trip, director, contain, table, audience",329.93
+1123,232,Villa,Shared room,New Alexandramouth,Burkina Faso,5,2,"recent, when, down, understand, middle",599.52
+1124,279,Apartment,Shared room,South Nancy,Sao Tome and Principe,2,3,"compare, too, above, seven, show",497.69
+1125,100,Studio,Entire place,New Christopher,Malaysia,5,2,"where, assume, project, land, fire",314.93
+1126,156,House,Shared room,Omarview,Canada,1,1,"together, I, early, fire, contain",993.69
+1127,96,Villa,Shared room,Shawnfurt,Suriname,3,1,"return, standard, believe, animal, painting",723.23
+1128,48,Villa,Shared room,North Laura,Antarctica (the territory South of 60 deg S),4,1,"military, everything, such, quickly, song",557.5
+1129,200,Apartment,Shared room,Richardchester,Jersey,5,3,"lot, what, technology, customer, baby",840.99
+1130,295,Villa,Entire place,Atkinsmouth,Palau,2,2,"worker, scientist, letter, sign, her",364.69
+1131,72,House,Entire place,North Andrea,United States Virgin Islands,4,3,"indeed, option, view, thousand, art",765.38
+1132,219,Studio,Private room,Andersonside,Ecuador,4,1,"time, hospital, six, even, own",609.98
+1133,145,Villa,Private room,Sanchezburgh,Colombia,4,2,"yet, keep, while, knowledge, may",228.85
+1134,181,House,Shared room,Jonesview,Central African Republic,5,2,"six, raise, to, leader, matter",107.67
+1135,271,Villa,Shared room,New Richardside,Romania,5,2,"group, standard, enjoy, song, only",59.89
+1136,215,Apartment,Private room,New Charles,Sao Tome and Principe,3,1,"matter, under, watch, evening, control",749.2
+1137,42,Apartment,Shared room,Davishaven,Cayman Islands,4,3,"property, only, people, collection, read",421.74
+1138,43,Apartment,Entire place,Lake Christianberg,Ecuador,4,1,"until, record, experience, American, voice",545.76
+1139,295,House,Shared room,Port Derrick,Tanzania,3,2,"husband, college, list, push, bank",451.84
+1140,47,Studio,Private room,North Michaelshire,Tokelau,5,3,"serious, drug, state, speak, week",732.06
+1141,150,Villa,Shared room,South Laura,Dominican Republic,1,1,"husband, arrive, more, quite, value",151.54
+1142,113,Studio,Private room,Christietown,Indonesia,4,3,"federal, hold, figure, carry, building",800.46
+1143,156,Villa,Entire place,Stephenfurt,Saint Martin,1,2,"hit, conference, heart, degree, wear",482.58
+1144,40,Studio,Shared room,North Thomas,Trinidad and Tobago,3,3,"society, high, brother, necessary, sport",459.95
+1145,71,Villa,Shared room,Paulberg,Thailand,4,3,"any, receive, book, early, agree",564.95
+1146,263,Villa,Private room,Jonesport,Mali,4,3,"sound, other, sense, fly, compare",501.81
+1147,161,House,Entire place,Riveraton,Central African Republic,1,2,"trouble, democratic, hold, long, environment",667.52
+1148,62,Villa,Entire place,South Jeffrey,Netherlands,2,1,"care, world, tough, cold, administration",267.79
+1149,125,Villa,Entire place,Steeleview,Timor-Leste,5,3,"factor, positive, color, marriage, professor",98.58
+1150,105,House,Private room,Huffmanbury,Tajikistan,1,2,"bar, see, believe, she, north",800.12
+1151,279,Apartment,Entire place,New Evelyn,Brunei Darussalam,1,3,"exactly, federal, grow, probably, agreement",450.37
+1152,25,House,Entire place,Donaldport,Czech Republic,5,3,"house, low, summer, imagine, computer",640.54
+1153,217,House,Shared room,Port Angela,Belgium,4,1,"join, notice, appear, each, any",411.52
+1154,289,Studio,Private room,Port Cassandra,Martinique,5,3,"population, commercial, rather, situation, heart",478.34
+1155,24,Apartment,Entire place,Port Kimberlyshire,Guatemala,4,1,"a, crime, main, prevent, among",412.36
+1156,199,Villa,Shared room,Lake Mario,Azerbaijan,3,3,"no, school, deal, cold, finish",381.3
+1157,4,Apartment,Entire place,Boyerland,Lesotho,2,2,"tonight, she, authority, my, system",545.16
+1158,139,Villa,Private room,Thomasshire,Maldives,4,3,"argue, street, certain, page, plan",809.68
+1159,23,Apartment,Shared room,Lake Brittneyshire,New Caledonia,4,2,"bag, building, whom, data, cell",441.46
+1160,183,Apartment,Entire place,West Tina,Georgia,3,3,"yard, magazine, poor, collection, hospital",737.81
+1161,82,Villa,Private room,Kristashire,Tunisia,2,2,"memory, present, speak, claim, understand",209.87
+1162,295,House,Shared room,Jillianburgh,Peru,1,1,"relate, baby, science, score, government",298.84
+1163,170,Villa,Shared room,New Charlesside,Gambia,2,1,"drop, suddenly, his, serious, help",818.87
+1164,104,Apartment,Shared room,Danielhaven,China,2,2,"worker, race, local, same, or",225.81
+1165,257,Villa,Private room,Barberville,Guinea,1,2,"strategy, whether, discuss, million, same",727.24
+1166,34,Studio,Shared room,Lopezberg,Christmas Island,2,1,"customer, attention, movie, crime, politics",355.88
+1167,205,Apartment,Entire place,Edwardsview,Monaco,1,3,"note, ball, free, under, move",418.43
+1168,139,Studio,Private room,Darleneborough,Hungary,5,2,"assume, point, safe, service, respond",765.03
+1169,221,House,Shared room,Brooksview,Zambia,3,3,"must, ball, visit, theory, game",828.26
+1170,35,Villa,Private room,North Elizabethfurt,Palestinian Territory,4,3,"share, there, where, expect, traditional",780.7
+1171,117,Studio,Private room,Lake Joseph,Egypt,4,3,"program, politics, way, mother, able",214.3
+1172,14,Villa,Shared room,West Bryanmouth,Singapore,2,3,"claim, others, degree, individual, try",131.11
+1173,7,Studio,Entire place,East Amanda,Chile,2,2,"goal, let, hot, similar, president",353.11
+1174,223,Villa,Entire place,New Jasonside,Saint Lucia,4,2,"fill, source, else, face, sport",691.83
+1175,173,House,Entire place,South Michael,United States of America,3,2,"still, staff, health, drop, property",746.45
+1176,79,Studio,Shared room,Lake Madisontown,Haiti,1,1,"Mr, put, small, her, contain",761.29
+1177,258,Villa,Entire place,West Jessicastad,Tuvalu,2,1,"also, author, daughter, street, technology",182.48
+1178,91,Studio,Entire place,Melindastad,Micronesia,2,2,"to, whole, easy, environmental, player",412.12
+1179,285,Apartment,Entire place,Port Kimberlyport,Martinique,2,1,"point, bed, study, single, after",873.96
+1180,46,House,Entire place,Lake Mariaton,Kiribati,5,2,"all, drive, rather, live, wind",428.11
+1181,58,Apartment,Shared room,New Anthony,Estonia,2,2,"economy, fall, result, rest, become",604.78
+1182,29,Studio,Shared room,Jenniferberg,Dominica,4,3,"necessary, city, stand, and, strong",735.55
+1183,168,Apartment,Shared room,Port Patriciaberg,Chad,3,2,"international, best, recognize, line, according",55.46
+1184,295,Apartment,Entire place,Knoxton,Turkey,2,2,"nice, war, daughter, network, even",562.53
+1185,274,Apartment,Private room,New John,Palestinian Territory,5,3,"recognize, very, specific, everybody, by",950.15
+1186,68,Apartment,Entire place,Lake Mark,Aruba,1,3,"budget, face, must, anything, difficult",546.75
+1187,233,House,Private room,Edwardtown,Algeria,2,2,"choose, someone, professor, different, wear",785.85
+1188,247,Villa,Shared room,Clarkville,Moldova,1,1,"exactly, actually, many, candidate, close",794.56
+1189,178,House,Shared room,East Hayleyland,Kazakhstan,5,3,"article, art, lot, name, man",396.69
+1190,125,House,Shared room,Littlechester,Yemen,5,1,"station, citizen, mother, board, certainly",811.86
+1191,168,House,Private room,Finleybury,Wallis and Futuna,1,2,"describe, until, general, manager, state",255.97
+1192,285,House,Entire place,Port Phillipberg,Albania,1,1,"the, even, suffer, time, six",311.5
+1193,286,House,Entire place,Christinaborough,Monaco,4,1,"if, court, loss, often, have",593.56
+1194,222,Villa,Shared room,Port Seanborough,Pitcairn Islands,2,3,"lose, study, back, chair, along",264.3
+1195,202,Studio,Private room,Charlesberg,Gibraltar,1,1,"another, finish, maintain, open, thousand",765.39
+1196,187,House,Entire place,New Dakotatown,Wallis and Futuna,2,3,"for, with, participant, question, serve",921.84
+1197,244,House,Shared room,North Tammyfurt,Malta,3,1,"trade, party, glass, number, huge",414.12
+1198,60,Studio,Entire place,Fishermouth,Vietnam,3,3,"politics, leader, argue, manager, alone",607.05
+1199,223,Villa,Private room,Dixonside,Grenada,3,3,"actually, young, exactly, modern, source",449.06
+1200,34,Studio,Private room,Carlosport,Rwanda,3,1,"fill, we, team, present, range",877.15
+1201,288,Studio,Entire place,Penaville,Zimbabwe,1,2,"class, each, above, on, well",594.6
+1202,191,Studio,Entire place,East Reneehaven,Central African Republic,1,2,"wind, sense, future, production, road",542.7
+1203,267,House,Entire place,West Seanville,Zambia,1,3,"beautiful, change, commercial, break, phone",763.7
+1204,56,Villa,Private room,South Emilyville,Equatorial Guinea,5,2,"recently, sort, only, couple, soldier",855.51
+1205,24,House,Shared room,South Lesliefurt,Ghana,5,1,"possible, environmental, point, ever, left",131.69
+1206,164,House,Shared room,Summerschester,South Africa,4,1,"again, wear, away, way, little",702.28
+1207,254,Villa,Private room,Valeriemouth,Spain,1,1,"international, model, us, until, crime",363.53
+1208,82,Villa,Private room,West Jose,Yemen,2,3,"step, all, film, help, despite",150.03
+1209,287,House,Private room,Sanfordberg,Fiji,4,1,"explain, often, study, reveal, project",329.77
+1210,39,Apartment,Private room,New Robertfort,Pakistan,1,1,"over, soldier, figure, ground, onto",440.96
+1211,185,Villa,Entire place,Port Tony,Malaysia,5,2,"tell, hair, voice, the, hit",940.19
+1212,71,Apartment,Shared room,Martinburgh,Micronesia,3,2,"training, pick, land, team, letter",324.42
+1213,261,Apartment,Private room,Michaelborough,Belize,1,3,"training, edge, center, particularly, cost",451.33
+1214,96,Studio,Private room,North Nicholasbury,Japan,2,2,"order, authority, time, check, upon",802.29
+1215,261,Apartment,Private room,North Morganberg,Bolivia,2,3,"wall, foreign, form, we, discussion",524.4
+1216,270,House,Private room,Jeremyberg,Slovakia (Slovak Republic),5,3,"reality, than, see, every, sea",321.79
+1217,90,Villa,Shared room,Caldwellburgh,Sri Lanka,4,1,"tonight, it, everybody, interest, there",937.05
+1218,75,House,Shared room,New Kelly,India,5,3,"again, forget, fine, mission, cost",565.74
+1219,215,Villa,Private room,New Carolborough,Benin,1,1,"race, provide, member, whom, safe",233.53
+1220,18,Studio,Shared room,Port Allisonmouth,Morocco,3,3,"there, or, guess, audience, heart",574.69
+1221,254,House,Shared room,South Bethany,Saint Vincent and the Grenadines,4,2,"attack, outside, police, industry, challenge",104.73
+1222,65,Villa,Entire place,Moralesbury,Greece,1,2,"establish, president, now, by, apply",461.33
+1223,48,Apartment,Entire place,Wardmouth,Panama,4,2,"could, start, voice, so, north",672.85
+1224,153,Villa,Entire place,Danielstad,Kenya,4,2,"yeah, commercial, weight, maybe, key",154.97
+1225,238,House,Shared room,New Jonathanborough,Slovakia (Slovak Republic),3,3,"least, develop, similar, happy, effect",888.9
+1226,214,Apartment,Shared room,Lake Kevin,Cape Verde,1,2,"bad, position, prepare, material, maybe",604.71
+1227,22,Villa,Entire place,South Laura,Maldives,2,1,"American, help, walk, that, happen",131.09
+1228,266,Villa,Shared room,Lisaborough,Angola,1,2,"management, create, fine, guy, meet",786.76
+1229,292,House,Shared room,Port Stacey,New Zealand,3,3,"trouble, assume, theory, Mr, president",539.19
+1230,176,House,Private room,West Davidland,El Salvador,3,3,"kitchen, avoid, dog, act, property",426.24
+1231,186,House,Entire place,South Patrick,Cuba,3,1,"model, race, her, up, mouth",911.35
+1232,272,Villa,Private room,South Brucetown,Djibouti,1,2,"study, difference, effect, help, somebody",632.02
+1233,93,Studio,Private room,South Duanemouth,Saint Pierre and Miquelon,3,3,"fund, town, only, room, fear",852.42
+1234,69,Studio,Private room,New Patriciachester,Germany,1,1,"most, do, as, recognize, natural",766.35
+1235,296,Studio,Shared room,New Kathryn,Costa Rica,2,3,"skin, door, risk, cup, four",897.57
+1236,276,Villa,Shared room,Hicksview,Djibouti,3,2,"memory, yeah, quality, direction, tax",645.37
+1237,105,Studio,Private room,Lake Susanside,Saint Vincent and the Grenadines,2,3,"specific, couple, successful, guy, story",111.28
+1238,40,Studio,Entire place,North Erichaven,Zambia,3,3,"effect, baby, past, road, house",954.25
+1239,204,Villa,Shared room,Alexanderside,Ireland,5,1,"continue, special, soon, much, maybe",917.39
+1240,218,Villa,Private room,Clarkchester,Isle of Man,1,3,"executive, care, memory, a, use",202.3
+1241,91,Studio,Private room,Port Meganchester,Antarctica (the territory South of 60 deg S),4,2,"rich, material, team, nor, writer",133.46
+1242,300,Villa,Private room,Jamietown,Montserrat,5,1,"paper, thing, join, even, apply",210.71
+1243,57,Studio,Entire place,Port Ellenburgh,Isle of Man,4,2,"need, perform, interest, hotel, single",907.42
+1244,184,House,Entire place,North Lisa,Uzbekistan,2,3,"maybe, we, cup, determine, same",856.67
+1245,155,Apartment,Shared room,East Mark,Lithuania,3,1,"hope, interesting, participant, admit, arm",605.13
+1246,272,Villa,Shared room,Hooperfurt,Palau,3,3,"population, week, information, far, make",153.39
+1247,176,Apartment,Private room,West Daniel,Algeria,1,3,"if, poor, notice, what, clear",847.28
+1248,232,Villa,Shared room,Johnsonfort,Uganda,2,1,"third, economy, air, skin, he",238.48
+1249,213,Apartment,Entire place,South Michaelhaven,Saint Vincent and the Grenadines,4,2,"player, on, wonder, attorney, on",56.66
+1250,286,Apartment,Shared room,North Judy,Pitcairn Islands,4,1,"area, set, report, quality, part",687.82
+1251,259,Studio,Shared room,Bruceborough,Angola,3,2,"behavior, peace, whole, trial, per",943.79
+1252,108,Apartment,Shared room,South Allison,British Virgin Islands,3,3,"skin, project, especially, hit, political",867.48
+1253,215,House,Entire place,South Desireeland,Peru,4,1,"result, treat, that, indeed, figure",231.37
+1254,163,Apartment,Entire place,South Amber,Ireland,2,1,"rise, effect, really, hot, business",479.64
+1255,204,House,Shared room,Monicaport,Libyan Arab Jamahiriya,3,1,"important, performance, they, whatever, face",130.88
+1256,254,Villa,Shared room,West Derrick,Bahrain,5,3,"day, reach, catch, parent, system",388.09
+1257,231,Studio,Private room,Ryantown,Guinea,5,3,"pay, young, cup, factor, teacher",824.77
+1258,298,Villa,Entire place,North Melanie,Sweden,1,2,"Mr, officer, government, recently, training",715.76
+1259,41,Villa,Shared room,Christopherbury,Latvia,4,2,"shoulder, air, happy, well, hold",426.69
+1260,122,Studio,Shared room,New Zachary,Cuba,4,2,"night, particularly, old, chair, thought",107.6
+1261,127,Villa,Entire place,Riosview,Saint Pierre and Miquelon,5,1,"mouth, other, beyond, marriage, leg",580.4
+1262,275,Villa,Entire place,New Sharonside,Falkland Islands (Malvinas),2,3,"figure, sing, report, church, through",184.24
+1263,74,Studio,Private room,Lake Patrick,Guinea-Bissau,3,1,"appear, condition, collection, include, rich",406.26
+1264,277,Studio,Shared room,Mezaborough,Philippines,2,1,"itself, along, by, sport, such",255.44
+1265,234,Apartment,Private room,Morrisberg,Lithuania,4,2,"coach, interview, off, guess, sometimes",996.52
+1266,102,House,Entire place,Jonesburgh,San Marino,5,2,"Mrs, summer, try, it, who",682.75
+1267,21,Villa,Entire place,Port Miranda,Cayman Islands,3,3,"among, wide, adult, school, present",371.34
+1268,299,Villa,Shared room,Chadton,Kenya,5,3,"chance, serious, throw, main, sort",571.4
+1269,165,Villa,Shared room,South Richardview,Chad,5,3,"for, enter, base, firm, image",270.33
+1270,42,Apartment,Entire place,Coleport,Gibraltar,1,3,"generation, page, reduce, marriage, weight",904.57
+1271,178,Apartment,Shared room,Stephanieview,Congo,2,3,"hard, raise, sit, Republican, these",750.86
+1272,244,Apartment,Private room,South Shawn,Philippines,1,3,"develop, address, tough, growth, similar",430.94
+1273,262,House,Private room,New Kimberly,Haiti,3,3,"television, deep, white, upon, discuss",310.95
+1274,281,House,Shared room,East Eric,Guadeloupe,2,2,"right, character, ten, nature, opportunity",977.04
+1275,250,Studio,Entire place,Deannatown,China,1,3,"one, thank, consumer, feeling, hundred",458.09
+1276,122,Villa,Entire place,Hollandborough,Cayman Islands,1,1,"computer, quickly, specific, include, raise",870.13
+1277,200,Studio,Private room,Kristenview,Timor-Leste,2,2,"training, represent, science, bank, quality",954.73
+1278,219,House,Entire place,Taylorburgh,Antigua and Barbuda,2,3,"compare, bar, draw, raise, maybe",329.72
+1279,79,House,Entire place,Wilkinsville,Mexico,5,1,"human, speak, step, Republican, mean",518.88
+1280,237,Apartment,Entire place,Port Anthony,South Africa,3,2,"in, fear, former, although, community",680.72
+1281,126,Apartment,Entire place,Lopezfurt,Ireland,4,3,"system, growth, once, agency, feel",720.35
+1282,115,Studio,Entire place,Ericchester,Antarctica (the territory South of 60 deg S),5,3,"energy, ever, medical, message, development",628.31
+1283,190,House,Shared room,West Ernestchester,Cocos (Keeling) Islands,4,1,"eat, item, sport, population, kitchen",337.32
+1284,132,Studio,Entire place,Leblancland,Sao Tome and Principe,4,1,"anything, theory, safe, factor, relationship",219.98
+1285,8,Studio,Entire place,South Christopher,Hungary,2,1,"air, woman, player, us, medical",334.11
+1286,189,Studio,Shared room,Carterbury,El Salvador,4,1,"ball, learn, blue, friend, including",444.7
+1287,206,Villa,Shared room,Glennstad,Tuvalu,2,2,"and, opportunity, direction, quite, subject",586.62
+1288,249,Villa,Entire place,New Jose,Cambodia,5,1,"perform, rest, watch, box, wrong",946.5
+1289,210,Studio,Private room,Crystalborough,San Marino,5,2,"professional, we, trade, trade, off",272.05
+1290,106,Studio,Shared room,South Richard,Turks and Caicos Islands,3,3,"arm, certainly, help, season, film",984.68
+1291,46,Villa,Entire place,Debramouth,Poland,3,3,"oil, store, public, couple, officer",838.82
+1292,188,Apartment,Shared room,Charlesfurt,Central African Republic,5,1,"size, behavior, first, anything, space",830.49
+1293,246,House,Private room,Annaport,Kazakhstan,2,2,"former, stage, defense, teacher, center",181.07
+1294,278,Apartment,Entire place,West James,Ukraine,4,1,"blue, agent, picture, ability, themselves",571.42
+1295,73,Apartment,Entire place,New Christinaburgh,Burundi,1,2,"live, face, wall, capital, later",231.85
+1296,107,House,Shared room,Peterton,Isle of Man,1,1,"member, recognize, exactly, activity, else",561.85
+1297,73,Apartment,Entire place,East Steven,Somalia,2,3,"others, choose, study, among, suddenly",585.45
+1298,250,Apartment,Private room,East Henry,Mozambique,5,3,"international, finally, against, environmental, reduce",942.39
+1299,5,Studio,Entire place,North Hannahmouth,Guyana,4,2,"daughter, look, get, full, others",637.39
+1300,200,Studio,Shared room,Wheelermouth,Cambodia,3,3,"bad, key, news, into, capital",386.45
+1301,203,Villa,Shared room,Houstonstad,Iceland,1,2,"no, exactly, four, step, wonder",522.61
+1302,181,Studio,Entire place,New Joanna,Australia,2,2,"late, building, hard, black, effect",904.55
+1303,132,House,Shared room,Port Alexandraburgh,Cameroon,4,1,"nothing, within, special, television, clearly",592.51
+1304,249,House,Private room,Jefferyshire,Northern Mariana Islands,2,3,"couple, guy, establish, security, its",366.94
+1305,219,House,Private room,Grantfurt,Ireland,1,1,"light, be, foot, majority, per",857.09
+1306,239,Studio,Private room,Thompsonland,Cape Verde,3,1,"personal, member, cultural, either, color",570.54
+1307,83,Apartment,Shared room,Port Dennis,Somalia,4,2,"environmental, smile, member, traditional, much",514.76
+1308,297,Studio,Entire place,Lake Joshua,Botswana,4,3,"raise, along, why, radio, or",200.95
+1309,216,House,Private room,Jacquelinehaven,Serbia,5,1,"teacher, hour, himself, three, little",561.62
+1310,243,Studio,Entire place,New Eric,Jordan,1,1,"former, trade, score, nice, performance",590.62
+1311,156,House,Private room,New Emily,Malawi,1,3,"lead, movie, weight, most, travel",297.3
+1312,172,Villa,Entire place,West Beth,Isle of Man,5,1,"national, operation, both, but, care",945.09
+1313,42,Apartment,Shared room,Ayalamouth,Slovenia,1,2,"whose, explain, certain, ever, pull",330.13
+1314,236,House,Private room,Mannburgh,Antigua and Barbuda,4,3,"size, surface, bit, cost, development",595.94
+1315,292,Villa,Private room,Chaneyland,Martinique,1,3,"be, glass, above, recognize, treat",520.3
+1316,109,House,Shared room,East Tiffanyland,Andorra,4,2,"officer, main, area, tend, radio",149.91
+1317,224,Villa,Entire place,South Lindsay,Cape Verde,4,2,"newspaper, some, summer, evening, nature",929.95
+1318,34,Apartment,Shared room,Port Tiffany,Rwanda,1,3,"outside, seat, beautiful, through, decision",178.64
+1319,158,Apartment,Entire place,Teresaburgh,Azerbaijan,3,3,"happen, environment, citizen, draw, sure",415.04
+1320,109,House,Shared room,Heatherfurt,Slovenia,4,3,"feeling, wish, under, great, part",982.14
+1321,276,House,Private room,New Josephport,Afghanistan,4,3,"wear, hundred, cultural, Republican, price",282.1
+1322,25,Apartment,Entire place,East Marymouth,Tonga,1,1,"make, short, enjoy, include, look",592.74
+1323,118,Apartment,Shared room,New Melissastad,Lao People's Democratic Republic,2,2,"take, majority, property, answer, none",796.65
+1324,264,House,Shared room,North Cassandratown,Slovakia (Slovak Republic),5,3,"TV, impact, national, soon, responsibility",379.61
+1325,204,Villa,Private room,Port Angelaville,United States Virgin Islands,4,1,"strategy, about, sea, cost, always",717.25
+1326,211,Studio,Shared room,Lyonsfurt,Timor-Leste,1,2,"gun, growth, compare, seat, local",469.92
+1327,78,Villa,Private room,Kristinashire,Western Sahara,4,3,"own, call, other, age, collection",771.08
+1328,124,House,Private room,North Keithborough,Equatorial Guinea,4,1,"none, name, message, couple, catch",965.96
+1329,288,Apartment,Entire place,Christinehaven,Yemen,3,3,"especially, right, design, movement, sit",467.24
+1330,240,Apartment,Entire place,Stonefort,Gambia,3,1,"kid, foreign, start, meeting, huge",435.69
+1331,99,Studio,Entire place,Riveraland,Cameroon,1,2,"near, control, health, else, until",181.16
+1332,236,Apartment,Private room,Palmermouth,Korea,4,3,"range, again, service, senior, beat",237.62
+1333,103,Apartment,Shared room,East Dennis,Madagascar,5,1,"morning, product, collection, low, represent",127.03
+1334,209,House,Entire place,Sharonburgh,Sweden,2,1,"measure, test, window, pretty, voice",735.21
+1335,140,Apartment,Entire place,Port Peter,India,2,3,"unit, make, trade, agent, about",751.28
+1336,132,Apartment,Entire place,North Caitlin,San Marino,3,2,"book, pass, finish, itself, without",558.19
+1337,29,Studio,Shared room,South Janetmouth,Canada,5,3,"citizen, least, food, worker, personal",754.13
+1338,192,Villa,Private room,Curryhaven,Palau,5,3,"Democrat, article, set, wife, him",451.76
+1339,286,Studio,Shared room,Jonestown,Mauritania,1,1,"which, bring, tend, past, loss",994.19
+1340,245,Villa,Shared room,Nicholasstad,Maldives,3,1,"phone, morning, matter, cultural, writer",486.87
+1341,270,Apartment,Private room,Port Matthewstad,Christmas Island,3,3,"difference, nature, system, occur, art",947.82
+1342,293,Apartment,Private room,Collinsmouth,Andorra,4,3,"run, life, conference, sign, camera",104.66
+1343,102,Villa,Shared room,Connorton,Saint Pierre and Miquelon,5,1,"behavior, you, hold, sell, try",867.23
+1344,144,Villa,Private room,New Emilyside,Suriname,5,2,"tell, party, bit, traditional, into",160.29
+1345,267,Villa,Entire place,Derekchester,Cyprus,1,1,"suffer, whatever, bill, yet, business",759.85
+1346,89,Apartment,Private room,West Williammouth,Bhutan,2,1,"stock, bit, attorney, who, million",186.08
+1347,107,House,Entire place,South Louismouth,Namibia,1,3,"ask, success, kid, voice, board",292.18
+1348,214,House,Entire place,North Briantown,Macao,1,2,"degree, one, policy, allow, probably",939.5
+1349,39,House,Private room,South Matthewview,Korea,2,2,"car, tough, state, him, man",473.89
+1350,37,Villa,Shared room,South Alyssashire,Austria,5,2,"respond, market, follow, relationship, star",817.97
+1351,64,Apartment,Shared room,Lake Julian,Netherlands,2,1,"measure, of, reach, part, kind",696.92
+1352,96,Studio,Shared room,Thompsonberg,Vanuatu,5,2,"poor, deal, wear, different, beat",617.45
+1353,154,Villa,Private room,Vanessachester,Mongolia,1,2,"address, section, offer, traditional, play",151.25
+1354,73,House,Entire place,New Adamburgh,Reunion,2,1,"yeah, person, main, try, produce",313.63
+1355,243,Villa,Entire place,Parkerside,Liberia,1,3,"collection, mission, bed, low, challenge",212.69
+1356,251,Apartment,Shared room,Robertburgh,Senegal,3,1,"put, represent, accept, scientist, eye",655.28
+1357,180,Apartment,Entire place,New Lindsayhaven,Lebanon,1,3,"pick, decision, recognize, human, somebody",295.41
+1358,27,Villa,Private room,Holdenberg,Australia,4,2,"worker, rich, prepare, age, sometimes",94.03
+1359,252,Villa,Entire place,South William,Liberia,4,3,"kind, growth, industry, follow, fish",823.56
+1360,29,Studio,Entire place,Castanedamouth,Luxembourg,1,1,"door, radio, give, true, begin",323.24
+1361,125,Studio,Private room,Lake Alexfort,Central African Republic,3,1,"indicate, six, adult, whether, each",173.34
+1362,246,House,Entire place,New Shawn,Trinidad and Tobago,5,3,"either, society, many, buy, cut",869.04
+1363,121,Villa,Private room,Oliviabury,Lebanon,4,1,"direction, two, cover, check, reach",699.13
+1364,209,Villa,Private room,Tateshire,Sao Tome and Principe,3,3,"maintain, dark, loss, art, film",497.57
+1365,131,Studio,Entire place,Hatfieldport,France,1,2,"will, rich, mention, military, page",635.56
+1366,160,Apartment,Private room,Scotttown,Iran,5,1,"ready, become, born, defense, affect",925.77
+1367,65,Apartment,Entire place,Alexandermouth,Indonesia,3,2,"ok, simple, out, task, modern",659.8
+1368,67,Apartment,Private room,Lake Marytown,Libyan Arab Jamahiriya,2,1,"game, know, specific, least, listen",56.59
+1369,246,House,Shared room,Herrerafurt,Tajikistan,5,2,"for, Mr, adult, accept, newspaper",415.98
+1370,33,Villa,Shared room,Smithport,British Virgin Islands,1,3,"she, drive, at, window, cup",971.56
+1371,12,Villa,Shared room,New Shelbychester,Vietnam,5,1,"hear, finally, same, imagine, over",566.42
+1372,137,Studio,Shared room,Mikeberg,Dominica,5,2,"again, ability, maybe, assume, green",757.29
+1373,294,Apartment,Private room,Joditown,Cote d'Ivoire,1,1,"authority, technology, light, indicate, yard",201.86
+1374,197,Studio,Entire place,Markmouth,Djibouti,2,2,"specific, let, rise, full, Mr",301.87
+1375,121,Villa,Private room,North Matthew,Cuba,2,2,"painting, town, bill, modern, story",609.95
+1376,41,Apartment,Shared room,Paulhaven,Pitcairn Islands,4,1,"approach, fact, national, door, other",572.55
+1377,269,Apartment,Entire place,West Wayneview,Falkland Islands (Malvinas),3,3,"executive, other, provide, change, sing",356.25
+1378,229,Villa,Entire place,South Erinbury,Lebanon,4,3,"memory, Mr, others, white, outside",820.57
+1379,106,Villa,Private room,Martinezhaven,Burkina Faso,3,1,"education, hand, design, year, huge",977.83
+1380,33,Villa,Private room,North Juliaport,Uganda,1,3,"fish, over, set, near, focus",94.71
+1381,184,House,Entire place,Lake Johnshire,Cambodia,4,2,"our, Democrat, process, test, phone",570.05
+1382,30,Villa,Shared room,Gamblemouth,Guinea-Bissau,4,1,"return, care, level, scientist, nearly",274.74
+1383,113,Studio,Entire place,North Kurt,Costa Rica,3,1,"long, card, boy, gas, choice",759.23
+1384,250,House,Private room,North William,Andorra,3,3,"art, very, remember, thing, give",161.68
+1385,251,Studio,Private room,Lake Bradley,Iceland,2,3,"involve, child, process, actually, fill",477.31
+1386,185,Apartment,Shared room,Lake Savannah,Turkey,3,2,"gun, from, director, although, picture",540.42
+1387,10,Studio,Shared room,Port Ashleyberg,Seychelles,2,2,"hand, third, place, hard, response",976.12
+1388,100,House,Private room,Ramirezton,Nicaragua,4,3,"investment, just, your, them, pick",798.44
+1389,290,House,Private room,West Victoriastad,Wallis and Futuna,3,2,"if, soon, real, tree, difficult",448.24
+1390,69,Villa,Entire place,New Charles,Kazakhstan,3,1,"same, who, writer, go, citizen",255.29
+1391,20,House,Shared room,Josephburgh,Kiribati,1,3,"doctor, thought, each, produce, west",857.93
+1392,4,House,Private room,Smithshire,Korea,2,2,"six, them, another, experience, fund",200.37
+1393,11,House,Entire place,Patrickview,Djibouti,1,1,"return, face, however, tax, mean",160.62
+1394,292,House,Entire place,South Amanda,Turkey,2,1,"tough, west, house, issue, hand",734.97
+1395,146,Villa,Entire place,Sarahton,Russian Federation,1,3,"kind, card, science, writer, remember",901.35
+1396,202,Apartment,Shared room,Port Katherine,Mauritius,2,2,"common, order, life, wife, north",69.46
+1397,76,Apartment,Private room,Port Caitlynborough,Papua New Guinea,1,3,"quickly, house, someone, hospital, dark",248.81
+1398,187,Villa,Entire place,Randytown,Guatemala,3,2,"member, traditional, thought, to, individual",975.57
+1399,121,Apartment,Entire place,Lake Kristin,Venezuela,5,3,"billion, memory, standard, energy, teach",371.43
+1400,112,Villa,Entire place,Jessicaside,Algeria,4,2,"woman, game, relationship, stay, treatment",635.34
+1401,203,Studio,Private room,New Meganmouth,Congo,4,2,"sport, read, add, common, tree",694.25
+1402,97,Studio,Private room,West Jennifer,Bhutan,2,3,"care, might, teach, usually, training",395.79
+1403,290,Villa,Shared room,South Garyborough,Belgium,2,3,"research, land, explain, necessary, whose",73.71
+1404,216,Studio,Entire place,Holdenstad,British Virgin Islands,5,3,"line, explain, learn, enjoy, improve",420.39
+1405,2,House,Entire place,Baxterberg,Madagascar,5,1,"particularly, business, compare, sell, since",229.54
+1406,232,Apartment,Private room,West Dylanshire,Grenada,5,1,"lead, section, feel, produce, wish",784.14
+1407,164,Studio,Entire place,Jameston,Cote d'Ivoire,4,2,"reality, would, than, somebody, his",989.79
+1408,187,Studio,Entire place,East Sarah,Kenya,2,1,"nature, watch, we, none, include",401.28
+1409,105,Villa,Shared room,Phillipsland,Haiti,5,1,"wait, ok, trade, story, vote",151.65
+1410,187,Apartment,Private room,Lake Adamburgh,Guyana,4,3,"enjoy, no, mind, prove, who",638.29
+1411,185,Villa,Entire place,South Brianna,Iraq,2,2,"stage, fast, network, write, ball",529.11
+1412,208,Studio,Entire place,Gregoryland,Netherlands,5,2,"road, rate, charge, build, have",275.23
+1413,253,Villa,Private room,South Thomas,Sao Tome and Principe,4,2,"economy, expert, network, song, rise",812.56
+1414,104,Apartment,Shared room,Lake Nancyfort,Morocco,4,1,"exist, west, reason, scientist, lead",780.19
+1415,89,Villa,Entire place,Danielleberg,Tonga,2,1,"between, by, dream, song, sure",456.14
+1416,238,House,Entire place,East Carolchester,Mali,3,3,"well, nearly, under, choice, way",644.99
+1417,218,Studio,Shared room,Lake Paul,Kenya,2,2,"although, society, myself, record, investment",259.79
+1418,139,Apartment,Private room,Lisafurt,Slovenia,2,2,"difficult, effect, space, two, own",563.44
+1419,187,Apartment,Shared room,East Mitchellborough,Isle of Man,1,1,"federal, leader, avoid, must, employee",737.16
+1420,238,Apartment,Private room,New Christopher,Malaysia,3,1,"health, buy, cause, raise, quickly",329.57
+1421,173,Apartment,Entire place,East Oscarville,Montserrat,4,3,"oil, push, a, recognize, choose",790.55
+1422,234,Villa,Entire place,Lake Hector,Costa Rica,5,3,"window, benefit, author, partner, understand",357.26
+1423,88,Villa,Entire place,East Evelyn,Czech Republic,1,1,"debate, long, character, discussion, nothing",340.05
+1424,198,Apartment,Shared room,Robbinsview,Jamaica,3,3,"bank, bill, nothing, itself, charge",249.34
+1425,83,House,Entire place,Christopherberg,Christmas Island,5,3,"audience, own, difficult, always, a",897.02
+1426,35,Apartment,Private room,Christopherton,Egypt,1,2,"drop, market, hard, term, article",183.07
+1427,88,House,Entire place,Annside,Cocos (Keeling) Islands,3,1,"because, can, blue, available, task",109.46
+1428,295,Apartment,Entire place,East Kurtton,Jordan,5,3,"down, compare, sing, network, shake",660.76
+1429,82,House,Private room,Matthewfurt,Chad,5,3,"clear, fine, wind, defense, price",281.11
+1430,260,Villa,Entire place,Mccarthytown,Tajikistan,2,1,"effort, look, off, appear, toward",263.23
+1431,126,Villa,Entire place,Lake Jordanchester,Bulgaria,5,2,"arrive, head, speech, best, rule",702.32
+1432,37,Villa,Private room,East Jenniferchester,Cyprus,1,2,"family, finally, federal, traditional, recently",397.72
+1433,149,Apartment,Shared room,North Michaelburgh,Mauritius,4,3,"green, bag, young, himself, magazine",900.54
+1434,259,Villa,Private room,Angelicashire,Bahrain,5,1,"run, mother, every, group, hope",974.95
+1435,115,Villa,Shared room,Jennyview,United Arab Emirates,1,2,"network, describe, throughout, physical, be",356.27
+1436,84,House,Private room,North Antoniomouth,Jersey,5,3,"explain, morning, until, nearly, hit",117.73
+1437,52,Apartment,Entire place,Lehaven,North Macedonia,2,2,"industry, natural, go, act, chair",707.42
+1438,11,Studio,Shared room,Port Jenna,Swaziland,5,2,"where, little, music, whom, any",469.71
+1439,227,House,Entire place,Kathleentown,Egypt,2,3,"current, firm, to, environmental, spring",930.84
+1440,154,Studio,Shared room,Jessicachester,Togo,4,2,"skill, new, year, specific, ten",811.65
+1441,66,House,Private room,North Kimberly,Pakistan,3,2,"lead, crime, image, public, become",872.94
+1442,203,House,Entire place,New Eric,Brunei Darussalam,4,1,"lose, cold, mean, difference, send",475.28
+1443,119,House,Entire place,Johnburgh,Norfolk Island,2,1,"imagine, few, support, eat, reality",628.01
+1444,18,House,Entire place,Port Amyview,Mayotte,4,1,"player, baby, sometimes, care, fast",716.68
+1445,115,Villa,Shared room,West Donaldborough,Suriname,4,1,"throw, need, production, business, finally",338.44
+1446,192,Villa,Private room,Lisaton,Haiti,5,2,"area, particularly, town, real, heart",275.98
+1447,88,Villa,Entire place,West Alexandraland,Jamaica,5,3,"budget, candidate, force, among, forget",413.71
+1448,269,Villa,Entire place,Johnmouth,Kazakhstan,3,2,"short, including, second, worker, and",210.44
+1449,242,Apartment,Entire place,New Rebecca,Cameroon,2,2,"meeting, analysis, there, Mr, become",439.25
+1450,240,Villa,Shared room,West Katie,Cayman Islands,3,3,"probably, city, capital, leave, child",889.71
+1451,34,House,Private room,Andrewborough,Israel,3,1,"recent, want, city, film, child",76.93
+1452,94,House,Shared room,Lake Andrewtown,India,1,2,"call, medical, kid, wind, south",451.72
+1453,6,Villa,Entire place,West Laura,Nicaragua,1,3,"cause, short, sea, interview, range",227.29
+1454,279,Villa,Entire place,Youngland,Cambodia,3,2,"Democrat, save, art, cup, score",924.67
+1455,206,Studio,Shared room,Elizabethberg,Vietnam,4,2,"husband, rest, her, agreement, leave",938.01
+1456,244,House,Shared room,West Lawrence,Somalia,5,1,"grow, worry, you, civil, raise",389.51
+1457,70,House,Entire place,Port Richard,Nicaragua,4,1,"image, who, several, country, trouble",748.23
+1458,104,Apartment,Shared room,Martinchester,Hong Kong,3,2,"population, statement, lose, test, quite",535.13
+1459,61,Apartment,Shared room,Jessicahaven,Marshall Islands,4,2,"Mrs, nice, set, official, policy",654.8
+1460,5,Studio,Shared room,Stevensmouth,Ireland,1,3,"actually, interesting, growth, position, deal",576.13
+1461,34,Apartment,Entire place,Willisberg,Sweden,3,1,"open, throw, woman, enter, according",486.96
+1462,167,Studio,Shared room,Woodside,Guyana,4,3,"friend, police, free, western, sense",855.04
+1463,27,House,Entire place,Blairville,Anguilla,5,2,"realize, president, election, enjoy, travel",908.01
+1464,166,Apartment,Entire place,South Frederickfurt,Slovakia (Slovak Republic),2,1,"fear, idea, offer, such, best",535.01
+1465,90,House,Shared room,Hillfurt,Taiwan,1,3,"able, himself, physical, free, positive",970.54
+1466,78,Studio,Private room,North Matthewland,Germany,1,2,"moment, wish, drop, growth, job",774.69
+1467,194,Studio,Private room,Lake Mariafurt,Czech Republic,2,1,"effort, hand, save, knowledge, ok",182.96
+1468,270,House,Shared room,Williamstown,Libyan Arab Jamahiriya,4,3,"ten, discussion, anyone, south, include",555.62
+1469,121,Studio,Private room,Berryfort,Luxembourg,1,1,"guy, standard, hard, fund, grow",730.57
+1470,53,House,Shared room,Davidmouth,Iceland,2,1,"resource, improve, often, power, bill",413.16
+1471,176,Apartment,Shared room,North Paulberg,France,2,2,"ask, study, several, bring, knowledge",164.05
+1472,180,Villa,Entire place,South William,Seychelles,1,2,"type, land, war, hotel, ready",761.31
+1473,243,Villa,Private room,North Ashleestad,Bosnia and Herzegovina,2,1,"serve, market, company, turn, question",77.45
+1474,23,Studio,Private room,Danielmouth,Cote d'Ivoire,2,2,"green, professor, short, seat, great",516.61
+1475,286,Villa,Entire place,Erikastad,Uzbekistan,3,1,"cold, not, push, education, week",223.91
+1476,54,Studio,Private room,Andreatown,Micronesia,3,1,"agency, person, production, while, follow",509.38
+1477,108,Apartment,Shared room,Jonesshire,Montenegro,3,1,"right, trouble, plan, as, month",716.19
+1478,258,Villa,Private room,Erinview,Faroe Islands,1,3,"great, response, model, boy, as",797.4
+1479,25,Studio,Shared room,Pierceview,Yemen,4,1,"decision, practice, guess, meeting, region",513.87
+1480,263,Villa,Private room,North Timothyside,Belize,1,3,"thought, as, close, everything, any",403.77
+1481,74,House,Private room,Tannerport,Central African Republic,1,3,"throw, think, use, culture, stand",659.57
+1482,193,Villa,Private room,South Patriciaville,United Kingdom,1,1,"including, eat, month, region, reality",857.11
+1483,55,Apartment,Shared room,Jessicaland,Guatemala,5,2,"add, hit, upon, record, entire",413.05
+1484,193,Villa,Entire place,Julieside,Zimbabwe,1,2,"five, same, forward, share, together",192.02
+1485,219,Apartment,Shared room,Anneburgh,Reunion,1,3,"letter, people, pull, practice, morning",929.72
+1486,36,House,Private room,Nicholasburgh,Nepal,2,3,"cup, near, writer, guy, degree",398.97
+1487,275,Apartment,Private room,Shannonhaven,Lebanon,4,3,"else, can, floor, space, example",318.93
+1488,195,Studio,Shared room,Port Rebeccaland,Chad,4,2,"nature, better, camera, anything, no",597.96
+1489,265,Studio,Entire place,New Ann,Estonia,1,3,"onto, represent, measure, yet, church",801.03
+1490,3,Villa,Shared room,Shieldsmouth,Sao Tome and Principe,5,1,"open, stop, current, whom, within",949.8
+1491,38,Apartment,Shared room,Ericafort,Netherlands,1,3,"animal, five, friend, difficult, management",777.09
+1492,119,Studio,Private room,West Matthew,Congo,3,2,"political, break, wind, rate, professor",424.47
+1493,93,Studio,Entire place,West Lindaport,Lebanon,2,1,"former, effort, can, practice, major",555.53
+1494,102,Apartment,Private room,Sanfordburgh,Kuwait,1,1,"itself, keep, method, walk, cell",238.98
+1495,221,Villa,Shared room,East Joytown,French Polynesia,1,3,"case, door, oil, question, begin",969.26
+1496,29,Apartment,Shared room,West Sean,Dominica,3,3,"power, finish, she, learn, generation",107.61
+1497,7,Studio,Private room,East Adrian,Yemen,2,2,"sing, type, institution, sense, thousand",792.12
+1498,75,Studio,Entire place,North Michelle,Bahrain,3,2,"international, sea, election, long, choice",401.32
+1499,248,Studio,Entire place,North Michaelstad,Belarus,3,1,"walk, type, money, which, respond",566.3
